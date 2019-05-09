@@ -1,0 +1,100 @@
+{
+  "name": "Gradianto_deep_ocean",
+  "dark": true,
+  "author": "",
+  "editorScheme": "/Gradianto_deep_ocean.xml",
+  "ui": {
+    "*": {
+      "background": "#1c2739",
+      "foreground": "#c1c1c1",
+
+      "infoForeground": "#d5d215",
+
+      "selectionBackground": "#39487e",
+      "selectionForeground": "#e2e2e2",
+      "selectionInactiveBackground": "#2c3d59",
+
+
+      "disabledForeground": "#a3a3a3",
+      "disabledBackground": "#222f44",
+      "inactiveBackground": "#325180",
+
+      "errorForeground": "#b5b5b5",
+
+      "disabledText": "#adadad",
+      "Borders.ContrastBorderColor" : "#0e1624",
+      "borderColor": "#141834",
+      "disabledBorderColor": "#0d1022",
+      "focusColor" : "#25334b",
+      "focusedBorderColor": "#2b416a",
+
+      "separatorColor": "#223757"
+    },
+    "Tree.background": "#24334a",
+
+    "ActionButton": {
+      "hoverBackground": "#324565",
+      "pressedBackground": "#284267",
+      "hoverBorderColor": "#141834",
+      "pressedBorderColor": "#171c3c"
+    },
+    "Borders": {
+      "color": "#1b2633"
+    },
+    "Button": {
+      "startBackground": "#506791",
+      "endBackground": "#2a3381",
+      "startBorderColor": "#475991",
+      "endBorderColor": "#2b3d81",
+      "shadowColor" : "#24336d",
+      "focusedBorderColor" : "#295da2",
+      "default.focusColor": "#2969a2",
+      "disabledBorderColor" : "#193c81",
+      "default": {
+        "startBackground": "#6380b4",
+        "endBackground": "#1e255d",
+        "startBorderColor": "#475991",
+        "endBorderColor": "#2b3d81",
+        "focusedBorderColor": "#295da2",
+        "focusColor": "#2969a2"
+      }
+
+    },
+    "CompletionPopup":  {
+      "matchForeground": "#e1de4c",
+      "matchSelectionForeground": "#ffca74"
+    },
+    "Notification": {
+
+      "errorForeground": "#f5f5f5",
+      "errorBackground": "#c4131e",
+      "errorBorderColor": "#c55e4a",
+
+      "ToolWindow": {
+        "informativeForeground": "#f5f5f5",
+        "informativeBackground": "#4a4a66",
+        "informativeBorderColor": "#d4745c",
+
+        "warningForeground": "#abb2bf",
+        "warningBackground": "#896a28",
+        "warningBorderColor": "#5f4422",
+
+        "errorForeground": "#abb2bf",
+        "errorBackground": "#923849",
+        "errorBorderColor": "#552029"
+      }
+    },
+    "ComboBox": {
+      "background" : "#3c557c",
+      "nonEditableBackground": "#466391",
+      "ArrowButton": {
+        "iconColor": "#e3e2f1",
+        "disabledIconColor": "#667286",
+        "nonEditableBackground": "#464662"
+      }
+    },
+    "Editor": {
+      "shortcutForeground": "#745279"
+    }
+  }
+}
