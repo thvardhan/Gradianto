@@ -1,12 +1,12 @@
 {
-  "name": "Gradianto-midnight-blue",
+  "name": "Gradianto Midnight Blue",
   "dark": true,
   "author": "",
   "editorScheme": "/Gradianto_midnight_blue.xml",
   "ui": {
     "*": {
       "background": "#282839",
-      "foreground": "#dddddd",
+      "foreground": "#d4d4d4",
 
       "infoForeground": "#00d66e",
 
@@ -179,8 +179,8 @@
       }
     },
     "ToggleButton": {
-      "onForeground": "#3f2c6d",
-      "onBackground": "#9ca9af",
+      "onForeground": "#9ca9af",
+      "onBackground": "#3f2c6d",
       "offForeground": "#646464",
       "offBackground": "#232332",
       "buttonColor": "#411e85",
@@ -227,17 +227,17 @@
       "Checkbox.Foreground.Selected.Dark": "#00d66e",
 
 
-      "Objects.Grey": "#9f88ea",
-      "Objects.Blue": "#4fc3f7",
-      "Objects.RedStatus": "#ff5722",
-      "Objects.Red": "#ff7274ff",
-      "Objects.Pink": "#ff97b1ff",
-      "Objects.Yellow": "#ffca57ff",
-      "Objects.Green": "#76da84ff",
-      "Objects.Purple": "#d199ffff",
-      "Objects.BlackText": "#2e2e2eff",
-      "Objects.YellowDark": "#ffca1eff",
-      "Objects.GreenAndroid": "#18e66bff"
+      "Objects.Grey": "#d6d6d6c0",
+      "Objects.Blue": "#4fc3f7c0",
+      "Objects.RedStatus": "#ff5722c0",
+      "Objects.Red": "#ff7274c0",
+      "Objects.Pink": "#ff97b1c0",
+      "Objects.Yellow": "#ffca57c0",
+      "Objects.Green": "#76da84c0",
+      "Objects.Purple": "#d199ffc0",
+      "Objects.BlackText": "#2e2e2ec0",
+      "Objects.YellowDark": "#ffca1ec0",
+      "Objects.GreenAndroid": "#18e66bc0"
     }
   }
 }

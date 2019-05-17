@@ -1,8 +1,8 @@
 {
-  "name": "Gradianto",
+  "name": "Gradianto Dark Fuchsia",
   "dark": true,
   "author": "",
-  "editorScheme": "/Gradianto.xml",
+  "editorScheme": "/Gradianto_dark_fuchsia.xml",
   "ui": {
     "*": {
       "background": "#20022d",
