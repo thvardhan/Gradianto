@@ -65,6 +65,8 @@
       "matchForeground": "#e1de4c",
       "matchSelectionForeground": "#ffca74"
     },
+
+
     "Notification": {
 
       "errorForeground": "#f5f5f5",
@@ -159,6 +161,7 @@
     },
     "PopupMenu.translucentBackground": "#26366d",
     "Popup": {
+      "inactiveBorderColor" : "#252649",
       "paintBorder": true,
       "Header.activeBackground": "#39487e",
       "Header.inactiveBackground": "#325180",
@@ -217,6 +220,8 @@
       "Checkbox.Background.Default.Dark": "#3c4861",
       "Checkbox.Foreground.Selected.Dark": "#00d66e",
 
+      "Checkbox.Background.Disabled": "#212735",
+      "Checkbox.Background.Disabled.Dark": "#212735",
 
       "Objects.Grey": "#e3e3e3c0",
       "Objects.Blue": "#4fc3f7c0",
