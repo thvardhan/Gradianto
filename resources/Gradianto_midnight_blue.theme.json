@@ -45,16 +45,15 @@
     },
     "Button": {
       "startBackground": "#544c91",
-      "endBackground": "#442781",
+      "endBackground": "#544c91",
       "startBorderColor": "#544c91",
-      "endBorderColor": "#442781",
-      "shadowColor" : "#442781",
+      "endBorderColor": "#544c91",
       "focusedBorderColor" : "#5631a2",
       "default.focusColor": "#5631a2",
       "disabledBorderColor" : "#442781",
       "default": {
         "startBackground": "#544c91",
-        "endBackground": "#442781",
+        "endBackground": "#544c91",
         "startBorderColor": "#544c91",
         "endBorderColor": "#442781",
         "focusedBorderColor": "#5631a2",
@@ -104,10 +103,8 @@
     },
 
     "EditorTabs": {
-      "selectedForeground": "#f5f5f5",
       "selectedBackground": "#3d3d56",
-      "underlineColor": "#44346e",
-      "inactiveMaskColor": "#282839ff"
+      "underlineColor": "#44346e"
     },
 
     "Link": {
@@ -131,8 +128,8 @@
       }
     },
     "SearchMatch": {
-      "startBackground": "#6e6e9d",
-      "endBackground": "#413371"
+      "startBackground": "#8787c1",
+      "endBackground": "#8787c1"
     },
 
     "WelcomeScreen": {

@@ -43,20 +43,16 @@
       "ContrastBorderColor": "#0e1624"
     },
     "Button": {
-      "startBackground": "#506791",
-      "endBackground": "#2a3381",
-      "startBorderColor": "#475991",
-      "endBorderColor": "#2b3d81",
-      "shadowColor" : "#24336d",
-      "focusedBorderColor" : "#295da2",
-      "default.focusColor": "#2969a2",
+      "startBackground": "#4a75a2",
+      "endBackground": "#4a75a2",
+      "startBorderColor": "#252e4b",
+      "endBorderColor": "#252e4b",
+      "focusedBorderColor" : "#4a75a2",
+      "default.focusColor": "#4a75a2",
       "disabledBorderColor" : "#193c81",
       "default": {
-        "startBackground": "#6380b4",
-        "endBackground": "#1e255d",
-        "startBorderColor": "#475991",
-        "endBorderColor": "#2b3d81",
-        "focusedBorderColor": "#295da2",
+        "startBackground": "#4a75a2",
+        "endBackground": "#4a75a2",
         "focusColor": "#2969a2"
       }
 
