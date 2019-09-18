@@ -198,6 +198,7 @@
       <value>
         <option name="BACKGROUND" value="283551" />
         <option name="EFFECT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="256e2d" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
@@ -278,6 +279,7 @@
         <option name="FOREGROUND" value="c08598" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="5" />
+        <option name="ERROR_STRIPE_COLOR" value="3937c5" />
       </value>
     </option>
     <option name="TYPO">
