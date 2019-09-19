@@ -1,13 +1,14 @@
 <idea-plugin>
   <id>com.thvardhan.gradianto</id>
   <name>Gradianto</name>
-  <version>3.4</version>
+  <version>3.6</version>
   <vendor email="thvardhan.god@gmail.com">thvardhan</vendor>
 
   <description>
       Gradianto aims to be easy on the eyes while being colorful and bright. Gradianto ships with the gradients found in nature. There is something for everyone
   </description>
 
+  
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
   <idea-version since-build="191.0"/>
