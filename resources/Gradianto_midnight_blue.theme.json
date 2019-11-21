@@ -103,6 +103,7 @@
     },
 
     "EditorTabs": {
+      "underlinedTabBackground": "#3d3d56",
       "selectedBackground": "#3d3d56",
       "underlineColor": "#44346e"
     },

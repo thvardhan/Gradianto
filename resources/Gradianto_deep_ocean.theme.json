@@ -23,7 +23,7 @@
 
       "disabledText": "#adadad",
       "Borders.ContrastBorderColor" : "#0e1624",
-      "borderColor": "#141834",
+      "borderColor": "#151d2c",
       "disabledBorderColor": "#0d1022",
       "focusColor" : "#25334b",
       "focusedBorderColor": "#2b416a",
@@ -57,9 +57,8 @@
       }
 
     },
-    "CompletionPopup":  {
-      "matchForeground": "#e1de4c",
-      "matchSelectionForeground": "#ffca74"
+    "CompletionPopup": {
+      "matchForeground": "#568AF2"
     },
 
 
@@ -96,9 +95,13 @@
       "shortcutForeground": "#3f5079"
     },
     "EditorTabs": {
+
       "selectedForeground": "#ececec",
       "selectedBackground": "#324d65",
+      "underlinedTabBackground": "#324d65",
+      "background": "#243647",
       "underlineColor": "#46628f",
+      "hoverMaskColor": "#46628f",
       "inactiveMaskColor": "#24334aff"
     },
 
@@ -155,6 +158,8 @@
       "passedColor": "#83d68d",
       "passedEndColor": "#2f422f"
     },
+    "windowBorder" : "#282c57",
+    "window": "#282c57",
     "PopupMenu.translucentBackground": "#26366d",
     "Popup": {
       "inactiveBorderColor" : "#252649",

@@ -1,6 +1,8 @@
 <scheme name="Gradianto Deep Ocean" version="142" parent_scheme="Darcula">
   <colors>
     <option name="CARET_ROW_COLOR" value="1d263b" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="1a2136" />
+    <option name="DOCUMENTATION_COLOR" value="26354d" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="14294a" />
     <option name="GUTTER_BACKGROUND" value="202940" />
     <option name="INDENT_GUIDE" value="293555" />
@@ -14,10 +16,10 @@
     <option name="SELECTED_TEARLINE_COLOR" value="4d619c" />
     <option name="SELECTION_BACKGROUND" value="28509e" />
     <option name="SEPARATOR_BELOW_COLOR" value="37393c" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="1f283eb2" />
+    <option name="ScrollBar.Mac.thumbColor" value="20294094" />
     <option name="TEARLINE_COLOR" value="415284" />
     <option name="VISUAL_INDENT_GUIDE" value="415385" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1a2136" />
-    <option name="DOCUMENTATION_COLOR" value="26354D" />
   </colors>
   <attributes>
     <option name="BREADCRUMBS_CURRENT">
@@ -153,6 +155,13 @@
     <option name="DUPLICATE_FROM_SERVER">
       <value>
         <option name="BACKGROUND" value="1d415e" />
+      </value>
+    </option>
+    <option name="ERRORS_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="bcb933" />
+        <option name="ERROR_STRIPE_COLOR" value="bcb933" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">

@@ -116,8 +116,10 @@
     },
 
     "EditorTabs": {
+
       "selectedForeground": "#c9c9c9",
       "selectedBackground": "#4e086f",
+      "underlinedTabBackground": "58097e",
       "underlineColor": "#58097e",
       "inactiveMaskColor": "#280a2fff"
     },
@@ -249,17 +251,17 @@
       "Checkbox.Border.Default.Dark": "#460561",
       "Checkbox.Foreground.Selected.Dark": "#6aae41",
 
-      "Objects.Grey": "#af9fd5",
-      "Objects.Blue": "#07ffe4",
-      "Objects.RedStatus": "#ff2528ff",
-      "Objects.Red": "#ff5856ff",
-      "Objects.Pink": "#ff789bff",
-      "Objects.Yellow": "#ffc620ff",
-      "Objects.Green": "#00c312ff",
-      "Objects.Purple": "#a56fffff",
-      "Objects.BlackText": "#000000FF",
-      "Objects.YellowDark": "#ffd128ff",
-      "Objects.GreenAndroid": "#00E61FFF"
+      "Objects.Grey": "#9b8ebe",
+      "Objects.Blue": "#05b4a1",
+      "Objects.RedStatus": "#a8191aff",
+      "Objects.Red": "#aa3c3aff",
+      "Objects.Pink": "#d16979ff",
+      "Objects.Yellow": "#be9418ff",
+      "Objects.Green": "#009c0eff",
+      "Objects.Purple": "#6b48a6ff",
+      "Objects.BlackText": "#131313ff",
+      "Objects.YellowDark": "#8a6c1aff",
+      "Objects.GreenAndroid": "#008b14ff"
     }
   }
 }
