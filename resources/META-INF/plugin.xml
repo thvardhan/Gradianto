@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.thvardhan.gradianto</id>
   <name>Gradianto</name>
-  <version>3.7</version>
+  <version>3.8</version>
   <vendor email="thvardhan.god@gmail.com">thvardhan</vendor>
 
   <description>
