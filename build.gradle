@@ -1,0 +1,37 @@
+plugins {
+    id 'java'
+    id 'org.jetbrains.intellij' version '0.4.19'
+}
+
+group 'thvardhan'
+version '3.9'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+
+// See https://github.com/JetBrains/gradle-intellij-plugin/
+intellij {
+    version '2020.1'
+}
+patchPluginXml {
+    changeNotes """
+      <h3>3.9</h3>
+      <ul>
+        <li>changed the background color of IDE update window in midnight blue and deep ocean theme</li>
+      </ul>
+      <h3>3.8</h3>
+      <ul>
+        <li>changed error stripe color to pink-ish im deep ocean theme</li>
+      </ul>
+      <h3>3.7</h3>
+      <ul>
+        <li>Fix indentation, hard wrap line in dark fuchsia theme</li>
+        <li>Tweaked colors of dark fuchsia theme.</li>
+        <li>Change match color for auto complete in deep ocean theme.</li>
+      </ul>"""
+}
