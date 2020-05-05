@@ -31,3 +31,5 @@ If you are having trouble with the above method, you may try this :
 8.  Restart your IDE
 9.  Open  `Preferences -> Appearance & Behavior -> Appearance`  and select any one of the gradient of the Gradianto theme in the  **`theme`**  dropdown.
 10. Click `Apply` and enjoy the theme.
+## Building from source
+This plugin now uses gradle build procedure. The detailed guide on how to build the plugin from source is available at the following link https://www.jetbrains.org/intellij/sdk/docs/tutorials/build_system/prerequisites.html
