@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="goto" path="ActionManager" hit="Goto Next Splitter" />
+    <option name="next" path="ActionManager" hit="Goto Next Splitter" />
+    <option name="splitter" path="ActionManager" hit="Goto Next Splitter" />
+    <option name="goto" path="ActionManager" hit="Goto Previous Splitter" />
+    <option name="previous" path="ActionManager" hit="Goto Previous Splitter" />
+    <option name="splitter" path="ActionManager" hit="Goto Previous Splitter" />
+    <option name="left" path="ActionManager" hit="Move Tab Left" />
+    <option name="move" path="ActionManager" hit="Move Tab Left" />
+    <option name="tab" path="ActionManager" hit="Move Tab Left" />
+    <option name="move" path="ActionManager" hit="Move Tab Right" />
+    <option name="right" path="ActionManager" hit="Move Tab Right" />
+    <option name="tab" path="ActionManager" hit="Move Tab Right" />
+    <option name="editor" path="ActionManager" hit="Move to Editor" />
+    <option name="move" path="ActionManager" hit="Move to Editor" />
+    <option name="to" path="ActionManager" hit="Move to Editor" />
+    <option name="current" path="ActionManager" hit="Open current file location in terminal" />
+    <option name="file" path="ActionManager" hit="Open current file location in terminal" />
+    <option name="in" path="ActionManager" hit="Open current file location in terminal" />
+    <option name="location" path="ActionManager" hit="Open current file location in terminal" />
+    <option name="open" path="ActionManager" hit="Open current file location in terminal" />
+    <option name="terminal" path="ActionManager" hit="Open current file location in terminal" />
+    <option name="in" path="ActionManager" hit="Open in Terminal" />
+    <option name="open" path="ActionManager" hit="Open in Terminal" />
+    <option name="terminal" path="ActionManager" hit="Open in Terminal" />
+    <option name="rename" path="ActionManager" hit="Rename Session" />
+    <option name="session" path="ActionManager" hit="Rename Session" />
+    <option name="horizontally" path="ActionManager" hit="Split Horizontally" />
+    <option name="split" path="ActionManager" hit="Split Horizontally" />
+    <option name="split" path="ActionManager" hit="Split Vertically" />
+    <option name="vertically" path="ActionManager" hit="Split Vertically" />
+    <option name="editor" path="ActionManager" hit="Switch Focus To Editor" />
+    <option name="focus" path="ActionManager" hit="Switch Focus To Editor" />
+    <option name="switch" path="ActionManager" hit="Switch Focus To Editor" />
+    <option name="to" path="ActionManager" hit="Switch Focus To Editor" />
+  </configurable>
+  <configurable id="terminal" configurable_name="Terminal">
+    <option name="application" hit="Application settings" />
+    <option name="settings" hit="Application settings" />
+    <option name="audible" hit="Audible bell" />
+    <option name="bell" hit="Audible bell" />
+    <option name="close" hit="Close session when it ends" />
+    <option name="ends" hit="Close session when it ends" />
+    <option name="it" hit="Close session when it ends" />
+    <option name="session" hit="Close session when it ends" />
+    <option name="when" hit="Close session when it ends" />
+    <option name="configure" hit="Configure terminal keybindings" />
+    <option name="keybindings" hit="Configure terminal keybindings" />
+    <option name="terminal" hit="Configure terminal keybindings" />
+    <option name="clipboard" hit="Copy to clipboard on selection" />
+    <option name="copy" hit="Copy to clipboard on selection" />
+    <option name="on" hit="Copy to clipboard on selection" />
+    <option name="selection" hit="Copy to clipboard on selection" />
+    <option name="to" hit="Copy to clipboard on selection" />
+    <option name="environment" hit="Environment Variables" />
+    <option name="variables" hit="Environment Variables" />
+    <option name="highlight" hit="Highlight hyperlinks" />
+    <option name="hyperlinks" hit="Highlight hyperlinks" />
+    <option name="mouse" hit="Mouse reporting" />
+    <option name="reporting" hit="Mouse reporting" />
+    <option name="ide" hit="Override IDE shortcuts" />
+    <option name="override" hit="Override IDE shortcuts" />
+    <option name="shortcuts" hit="Override IDE shortcuts" />
+    <option name="button" hit="Paste on middle mouse button click" />
+    <option name="click" hit="Paste on middle mouse button click" />
+    <option name="middle" hit="Paste on middle mouse button click" />
+    <option name="mouse" hit="Paste on middle mouse button click" />
+    <option name="on" hit="Paste on middle mouse button click" />
+    <option name="paste" hit="Paste on middle mouse button click" />
+    <option name="project" hit="Project settings" />
+    <option name="settings" hit="Project settings" />
+    <option name="integration" hit="Shell integration" />
+    <option name="shell" hit="Shell integration" />
+    <option name="path" hit="Shell path" />
+    <option name="shell" hit="Shell path" />
+    <option name="directory" hit="Start directory" />
+    <option name="start" hit="Start directory" />
+    <option name="name" hit="Tab name" />
+    <option name="tab" hit="Tab name" />
+    <option name="terminal" hit="Terminal" />
+  </configurable>
+</options>
+

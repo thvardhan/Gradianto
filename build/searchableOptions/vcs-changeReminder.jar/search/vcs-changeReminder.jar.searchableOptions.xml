@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="active" path="ActionManager" hit="Show Files Related to Active Changelist" />
+    <option name="changelist" path="ActionManager" hit="Show Files Related to Active Changelist" />
+    <option name="files" path="ActionManager" hit="Show Files Related to Active Changelist" />
+    <option name="related" path="ActionManager" hit="Show Files Related to Active Changelist" />
+    <option name="show" path="ActionManager" hit="Show Files Related to Active Changelist" />
+    <option name="to" path="ActionManager" hit="Show Files Related to Active Changelist" />
+    <option name="active" path="ActionManager" hit="Show files related to active changelist" />
+    <option name="changelist" path="ActionManager" hit="Show files related to active changelist" />
+    <option name="files" path="ActionManager" hit="Show files related to active changelist" />
+    <option name="related" path="ActionManager" hit="Show files related to active changelist" />
+    <option name="show" path="ActionManager" hit="Show files related to active changelist" />
+    <option name="to" path="ActionManager" hit="Show files related to active changelist" />
+  </configurable>
+</options>
+

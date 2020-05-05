@@ -1,0 +1,32 @@
+<idea-plugin>
+  <change-notes>
+      &lt;h3&gt;3.9&lt;/h3&gt;
+      &lt;ul&gt;
+        &lt;li&gt;changed the background color of IDE update window in midnight blue and deep ocean theme&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;h3&gt;3.8&lt;/h3&gt;
+      &lt;ul&gt;
+        &lt;li&gt;changed error stripe color to pink-ish im deep ocean theme&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;h3&gt;3.7&lt;/h3&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Fix indentation, hard wrap line in dark fuchsia theme&lt;/li&gt;
+        &lt;li&gt;Tweaked colors of dark fuchsia theme.&lt;/li&gt;
+        &lt;li&gt;Change match color for auto complete in deep ocean theme.&lt;/li&gt;
+      &lt;/ul&gt;</change-notes>
+  <id>com.thvardhan.gradianto</id>
+  <name>Gradianto</name>
+  <version>3.9</version>
+  <vendor email="thvardhan.god@gmail.com">thvardhan</vendor>
+  <description>
+    &lt;h4&gt;Gradianto aims to be easy on the eyes while being colorful and bright. Gradianto ships with the gradients found in nature. There is something for everyone&lt;/h4&gt;
+  </description>
+  <idea-version since-build="201.6668" until-build="201.*"/>
+  <depends>com.intellij.modules.lang</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="bfaeb3f4-6953-4cd7-a57f-32026d74acdd" path="/Gradianto_dark_fuchsia.theme.json"/>
+    <themeProvider id="b315d4cf-a00d-4d1a-9552-cff99c2eeef7" path="/Gradianto_midnight_blue.theme.json"/>
+    <themeProvider id="2b3a3367-4472-4b1b-8b0f-c89cbf584b65" path="/Gradianto_deep_ocean.theme.json"/>
+  </extensions>
+  <actions/>
+</idea-plugin>

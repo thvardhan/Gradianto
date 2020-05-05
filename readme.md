@@ -1,8 +1,9 @@
+This is a legacy branch and is no longer supported. Please check the master branch for up-to-date code and builds.
+
 # Gradianto - JetBrains IDE theme
 Gradianto aims to be easy on the eyes while being colorful and bright. Gradianto ships with the gradients found in nature. There is something for everyone.
 ## Winner of Intellij theme contest 2019
 With the amazing beauty and elegance of the theme, Gradianto won the Intellij theme contest 2019! Thank you for your support!
-
 
 # Screenshots
 <img src="Screenshots/DeepOcean-1.png" alt="Deep Ocean 1 image"/>

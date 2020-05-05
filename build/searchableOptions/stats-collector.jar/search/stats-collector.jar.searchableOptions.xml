@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="editor.preferences.completion" configurable_name="Code Completion">
+    <option name="java" hit="Java" />
+    <option name="kotlin" hit="Kotlin" />
+    <option name="completion" hit="Machine Learning-Assisted Completion" />
+    <option name="learning-assisted" hit="Machine Learning-Assisted Completion" />
+    <option name="machine" hit="Machine Learning-Assisted Completion" />
+    <option name="based" hit="Rank completion suggestions based on Machine Learning" />
+    <option name="completion" hit="Rank completion suggestions based on Machine Learning" />
+    <option name="learning" hit="Rank completion suggestions based on Machine Learning" />
+    <option name="machine" hit="Rank completion suggestions based on Machine Learning" />
+    <option name="on" hit="Rank completion suggestions based on Machine Learning" />
+    <option name="rank" hit="Rank completion suggestions based on Machine Learning" />
+    <option name="suggestions" hit="Rank completion suggestions based on Machine Learning" />
+    <option name="changes" hit="Show position changes in completion popup" />
+    <option name="completion" hit="Show position changes in completion popup" />
+    <option name="in" hit="Show position changes in completion popup" />
+    <option name="popup" hit="Show position changes in completion popup" />
+    <option name="position" hit="Show position changes in completion popup" />
+    <option name="show" hit="Show position changes in completion popup" />
+  </configurable>
+</options>
+
