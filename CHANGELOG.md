@@ -1,5 +1,8 @@
 # Changelog
 
+#### 3.10
+- Added Authors under each theme title
+- Added sponsor
 #### 3.9
 
 - changed the background color of IDE update window in midnight blue and deep ocean theme
