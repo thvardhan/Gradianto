@@ -9,10 +9,10 @@ Request and perform code reviews from inside your IDE.  Review any code, even if
 
 
 ## Screenshots
-<img src="Screenshots/DeepOcean-1.png" alt="Deep Ocean 1 image"/>
-<img src="Screenshots/DeepOcean-2.png" alt="Deep Ocean 2 image"/>
 <img src="Screenshots/NatureGreen-1.png" alt="Nature Green 1 image"/>
 <img src="Screenshots/NatureGreen-2.png" alt="Nature Green 2 image"/>
+<img src="Screenshots/DeepOcean-1.png" alt="Deep Ocean 1 image"/>
+<img src="Screenshots/DeepOcean-2.png" alt="Deep Ocean 2 image"/>
 <img src="Screenshots/Fuchasia-1-NEW.png" alt="Dark Fuchsia 1 image"/>
 <img src="Screenshots/Fuchasia-2-NEW.png" alt="Dark Fuchsia 2 image"/>
 <img src="Screenshots/MidNightBlue-1.png" alt="Midnight Blue 1 image"/>
