@@ -29,6 +29,14 @@ How to use the theme in EAP?
 </li>
 </ul>
 </li>
+<li>
+My colors are not correct!
+<ul>
+<li>
+    If you have just applied the theme then it is recommended that you restart your IDE so that the plugin can load proper colors. If there are still inconsistencies then please feel free to open an issue to this repository.
+</li>
+</ul>
+</li>
 </ul>
 
 
