@@ -1,28 +1,28 @@
-<scheme name="Gradianto Dark Fuchsia" version="142" parent_scheme="Darcula">
+<scheme name="Gradianto Nature Green" version="142" parent_scheme="Darcula">
   <colors>
-    <option name="CARET_ROW_COLOR" value="281f2d" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1c1122" />
+    <option name="CARET_ROW_COLOR" value="1d3b35" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="132623" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="112116" />
-    <option name="DOCUMENTATION_COLOR" value="4d2046" />
+    <option name="DOCUMENTATION_COLOR" value="264d43" />
     <option name="DOC_COMMENT_LINK" value="5f9267" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9e9d24" />
-    <option name="FOLDED_TEXT_BORDER_COLOR" value="4a452a" />
-    <option name="GUTTER_BACKGROUND" value="2a1a33" />
-    <option name="INDENT_GUIDE" value="2d2034" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="1b4a34" />
+    <option name="GUTTER_BACKGROUND" value="1d3738" />
+    <option name="INDENT_GUIDE" value="234537" />
     <option name="INFORMATION_HINT" value="324d48" />
     <option name="LINE_NUMBERS_COLOR" value="8d9296" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="bebdbd" />
-    <option name="NOTIFICATION_BACKGROUND" value="491770" />
+    <option name="NOTIFICATION_BACKGROUND" value="d3d70" />
     <option name="RECENT_LOCATIONS_SELECTION" value="304d47" />
-    <option name="RIGHT_MARGIN_COLOR" value="56336e" />
-    <option name="SELECTED_INDENT_GUIDE" value="5b3c68" />
-    <option name="SELECTED_TEARLINE_COLOR" value="9168a8" />
-    <option name="SELECTION_BACKGROUND" value="37204a" />
-    <option name="SEPARATOR_BELOW_COLOR" value="33263b" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="472950b2" />
-    <option name="ScrollBar.Mac.thumbColor" value="2f1f4094" />
-    <option name="TEARLINE_COLOR" value="3e2b48" />
-    <option name="VISUAL_INDENT_GUIDE" value="412f4b" />
+    <option name="RIGHT_MARGIN_COLOR" value="366e62" />
+    <option name="SELECTED_INDENT_GUIDE" value="346e5b" />
+    <option name="SELECTED_TEARLINE_COLOR" value="4d9c83" />
+    <option name="SELECTION_BACKGROUND" value="d4a42" />
+    <option name="SEPARATOR_BELOW_COLOR" value="373c3b" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="1f3e38b2" />
+    <option name="ScrollBar.Mac.thumbColor" value="20403d94" />
+    <option name="TEARLINE_COLOR" value="254d45" />
+    <option name="VISUAL_INDENT_GUIDE" value="2e5e4a" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -40,18 +40,13 @@
     <option name="BREADCRUMBS_CURRENT">
       <value>
         <option name="FOREGROUND" value="bbbbbb" />
-        <option name="BACKGROUND" value="30193b" />
+        <option name="BACKGROUND" value="1c3b2b" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
       <value>
         <option name="FOREGROUND" value="bbbbbb" />
-        <option name="BACKGROUND" value="39165c" />
-      </value>
-    </option>
-    <option name="CONSOLE_RANGE_TO_EXECUTE">
-      <value>
-        <option name="EFFECT_COLOR" value="463150" />
+        <option name="BACKGROUND" value="295c53" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
@@ -249,7 +244,7 @@
     <option name="FOLDED_TEXT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="8c8c8c" />
-        <option name="BACKGROUND" value="39143a" />
+        <option name="BACKGROUND" value="153a1c" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -281,19 +276,19 @@
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="787878" />
-        <option name="BACKGROUND" value="32163b" />
+        <option name="BACKGROUND" value="153b23" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
       <value>
         <option name="FOREGROUND" value="acacac" />
-        <option name="BACKGROUND" value="55265c" />
+        <option name="BACKGROUND" value="2a5c54" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
       <value>
         <option name="FOREGROUND" value="acacac" />
-        <option name="BACKGROUND" value="622b68" />
+        <option name="BACKGROUND" value="236768" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
@@ -313,8 +308,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="bc47b2" />
-        <option name="BACKGROUND" value="4e2651" />
+        <option name="FOREGROUND" value="45bc88" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -347,20 +342,20 @@
     <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="512352" />
-        <option name="ERROR_STRIPE_COLOR" value="53242c" />
+        <option name="BACKGROUND" value="285230" />
+        <option name="ERROR_STRIPE_COLOR" value="530d" />
       </value>
     </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a8afbe" />
-        <option name="BACKGROUND" value="1f1624" />
+        <option name="BACKGROUND" value="132623" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="332c59" />
+        <option name="BACKGROUND" value="24594d" />
         <option name="EFFECT_COLOR" value="223770" />
         <option name="ERROR_STRIPE_COLOR" value="488093" />
       </value>

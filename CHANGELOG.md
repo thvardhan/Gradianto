@@ -1,8 +1,17 @@
 # Changelog
 
 #### 3.10
+- New theme Nature Green is now available
+- Revamped Dark Fuchsia theme
+- Added more than 100 new colors across all themes in total
+- Lots of color inconsistency fixes
+
+
+#### 3.10
 - Added Authors under each theme title
 - Added sponsor
+
+
 #### 3.9
 
 - changed the background color of IDE update window in midnight blue and deep ocean theme

@@ -11,10 +11,25 @@ Request and perform code reviews from inside your IDE.  Review any code, even if
 ## Screenshots
 <img src="Screenshots/DeepOcean-1.png" alt="Deep Ocean 1 image"/>
 <img src="Screenshots/DeepOcean-2.png" alt="Deep Ocean 2 image"/>
-<img src="Screenshots/Fuchasia-1.png" alt="Dark Fuchsia 1 image"/>
-<img src="Screenshots/Fuchasia-2.png" alt="Dark Fuchsia 2 image"/>
+<img src="Screenshots/NatureGreen-1.png" alt="Nature Green 1 image"/>
+<img src="Screenshots/NatureGreen-2.png" alt="Nature Green 2 image"/>
+<img src="Screenshots/Fuchasia-1-NEW.png" alt="Dark Fuchsia 1 image"/>
+<img src="Screenshots/Fuchasia-2-NEW.png" alt="Dark Fuchsia 2 image"/>
 <img src="Screenshots/MidNightBlue-1.png" alt="Midnight Blue 1 image"/>
-<img src="Screenshots/MidNightBlue-2.png" alt="Midnight Blue 1 image"/>
+<img src="Screenshots/MidNightBlue-2.png" alt="Midnight Blue 2 image"/>
+
+## FAQ
+<ul>
+<li>
+How to use the theme in EAP?
+<ul>
+<li>
+    If you have already installed Gradianto on a non-EAP version of Intellij and switch to EAP then it might not work for you out of the box.
+    Reinstalling the plugin from the marketplace will fix this problem
+</li>
+</ul>
+</li>
+</ul>
 
 
 ## Installation

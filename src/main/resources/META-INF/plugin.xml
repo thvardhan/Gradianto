@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.thvardhan.gradianto</id>
   <name>Gradianto</name>
-  <version>3.10</version>
+  <version>4.0</version>
   <vendor email="thvardhan.god@gmail.com">thvardhan</vendor>
 
   <description><![CDATA[
@@ -28,6 +28,7 @@
     <themeProvider id="bfaeb3f4-6953-4cd7-a57f-32026d74acdd" path="/Gradianto_dark_fuchsia.theme.json"/>
     <themeProvider id="b315d4cf-a00d-4d1a-9552-cff99c2eeef7" path="/Gradianto_midnight_blue.theme.json"/>
     <themeProvider id="2b3a3367-4472-4b1b-8b0f-c89cbf584b65" path="/Gradianto_deep_ocean.theme.json"/>
+    <themeProvider id="1a889165-3e3a-4b17-8191-668be6e1fdcf" path="/Gradianto_Nature_Green.theme.json"/>
   </extensions>
 
   <actions>

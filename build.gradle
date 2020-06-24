@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'thvardhan'
-version '3.10'
+version '4.0'
 
 repositories {
     mavenCentral()
@@ -20,10 +20,12 @@ intellij {
 }
 patchPluginXml {
     changeNotes """
-      <h3>3.10</h3>
+      <h3>4.0</h3>
       <ul>
-        <li>Added Authors under each title</li>
-        <li>Added Sponsor</li>
+        <li>New theme Nature Green is now available</li>
+        <li>Revamped Dark Fuchsia theme</li>
+        <li>Added more than 100 new colors across all themes in total</li>
+        <li>Lots of color inconsistency fixes</li>
       </ul>
       """
 }
