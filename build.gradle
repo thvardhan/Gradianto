@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'thvardhan'
-version '4.0'
+version '4.1'
 
 repositories {
     mavenCentral()
@@ -19,6 +19,7 @@ intellij {
     version '2020.1'
 }
 patchPluginXml {
+    intellij.updateSinceUntilBuild = false
     changeNotes """
       <h3>4.0</h3>
       <ul>

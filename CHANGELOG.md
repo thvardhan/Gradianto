@@ -1,6 +1,9 @@
 # Changelog
 
-#### 3.10
+### 4.1
+- Added missing support for all intellij products across different versions
+
+#### 4.0
 - New theme Nature Green is now available
 - Revamped Dark Fuchsia theme
 - Added more than 100 new colors across all themes in total
