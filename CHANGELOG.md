@@ -1,5 +1,9 @@
 # Changelog
 
+### 4.2
+- Fixed scrollbars
+- Fixed Nature Green VCS styling
+
 ### 4.1
 - Added missing support for all intellij products across different versions
 

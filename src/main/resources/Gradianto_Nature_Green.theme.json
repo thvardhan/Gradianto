@@ -218,6 +218,44 @@
       "tagBackground": "#3d5a50",
       "lightSelectionBackground": "#3c7e64"
     },
+    "VersionControl": {
+      "Log.Commit.currentBranchBackground": "#225740",
+      "Log.Commit.unmatchedForeground": "#94aba8"
+    },
+    "ScrollBar" : {
+      "hoverThumbBorderColor" : "#39666394",
+      "background" : "#16322cff",
+      "hoverThumbColor": "#1f3e38b2",
+      "hoverTrackColor": "#224039ff",
+      "thumb": "#20403aff",
+      "thumbBorderColor": "#39666394",
+      "thumbColor": "#20403d94",
+      "thumbDarkShadow": "#122623ff",
+      "thumbHighlight": "#2a4f4cff",
+      "thumbShadow": "#162b24ff",
+      "track": "#182d26ff",
+      "Transparent": {
+        "thumbColor": "#20403d94",
+        "hoverThumbBorderColor" : "#14262694",
+        "hoverThumbColor": "#1f3e38b2",
+        "hoverTrackColor": "#224039ff",
+        "thumbBorderColor": "#14262694"
+      },
+      "Mac" : {
+        "Transparent": {
+          "thumbColor": "#20403d94",
+          "hoverThumbBorderColor" : "#14262694",
+          "hoverThumbColor": "#1f3e38b2",
+          "hoverTrackColor": "#224039ff",
+          "thumbBorderColor": "##39666394"
+        },
+        "hoverThumbBorderColor" : "#14262694",
+        "hoverThumbColor": "#1f3e38b2",
+        "hoverTrackColor": "#224039ff",
+        "thumbBorderColor": "#14262694",
+        "thumbColor": "#20403d94"
+      }
+    },
     "EditorPane.inactiveBackground": "#254a39ff"
   }
 }

@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'thvardhan'
-version '4.1'
+version '4.2'
 
 repositories {
     mavenCentral()
@@ -21,12 +21,10 @@ intellij {
 patchPluginXml {
     intellij.updateSinceUntilBuild = false
     changeNotes """
-      <h3>4.0</h3>
+      <h3>4.2</h3>
       <ul>
-        <li>New theme Nature Green is now available</li>
-        <li>Revamped Dark Fuchsia theme</li>
-        <li>Added more than 100 new colors across all themes in total</li>
-        <li>Lots of color inconsistency fixes</li>
+        <li>Fixed scrollbars</li>
+        <li>Fixed Nature Green VCS styling</li>
       </ul>
       """
 }
