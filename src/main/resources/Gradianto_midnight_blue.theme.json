@@ -220,6 +220,11 @@
       "tagBackground": "#40405a",
       "lightSelectionBackground": "#48387e"
     },
+    "TabbedPane": {
+      "focusColor": "#3d2c6a",
+      "hoverColor": "#433479",
+      "underlineColor": "#877fa8"
+    },
     "ScrollBar" : {
       "hoverThumbBorderColor" : "#423162ff",
       "background" : "#211632ff",

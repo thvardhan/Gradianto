@@ -3,6 +3,7 @@
 ### 4.3
 - Fixed scrollbars
 - Fixed Nature Green VCS styling
+- Fixed tabbed panes
 
 ### 4.2
 - Fixed background inheritance in PHPStorm

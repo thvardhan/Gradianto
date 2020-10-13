@@ -208,6 +208,11 @@
         "selectedForeground": "#b1c6c4"
       }
     },
+    "TabbedPane": {
+      "focusColor": "#2c6a56",
+      "hoverColor": "#34795d",
+      "underlineColor": "#7fa89b"
+    },
     "DragAndDrop": {
       "areaForeground": "#e5e5e5",
       "areaBackground": "#243937",

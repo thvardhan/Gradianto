@@ -283,6 +283,11 @@
         "thumbColor": "#2f1f4094"
       }
     },
+    "TabbedPane": {
+      "focusColor": "#562c6a",
+      "hoverColor": "#633479",
+      "underlineColor": "#8f7fa8"
+    },
     "EditorPane.inactiveBackground": "#5d4966"
   },
   "icons": {

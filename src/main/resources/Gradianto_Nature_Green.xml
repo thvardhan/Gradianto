@@ -19,8 +19,31 @@
     <option name="SELECTED_TEARLINE_COLOR" value="4d9c83" />
     <option name="SELECTION_BACKGROUND" value="d4a42" />
     <option name="SEPARATOR_BELOW_COLOR" value="373c3b" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="1f3e38b2" />
-    <option name="ScrollBar.Mac.thumbColor" value="20403d94" />
+    <option name="ScrollBar.background" value="16322cff"/>
+    <option name="ScrollBar.trackColor" value=""/>
+    <option name="ScrollBar.thumbColor" value="20403d94"/>
+    <option name="ScrollBar.thumbBorderColor" value="39666394"/>
+    <option name="ScrollBar.hoverTrackColor" value=""/>
+    <option name="ScrollBar.hoverThumbColor" value="1f3e38b2"/>
+    <option name="ScrollBar.hoverThumbBorderColor" value="14262694"/>
+    <option name="ScrollBar.Transparent.trackColor" value=""/>
+    <option name="ScrollBar.Transparent.thumbColor" value="20403d94"/>
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="39666394"/>
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="224039ff"/>
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="1f3e38b2"/>
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="14262694"/>
+    <option name="ScrollBar.Mac.trackColor" value=""/>
+    <option name="ScrollBar.Mac.thumbColor" value="20403d94"/>
+    <option name="ScrollBar.Mac.thumbBorderColor" value="39666394"/>
+    <option name="ScrollBar.Mac.hoverTrackColor" value=""/>
+    <option name="ScrollBar.Mac.hoverThumbColor" value="1f3e38b2"/>
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="14262694"/>
+    <option name="ScrollBar.Mac.Transparent.trackColor" value=""/>
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value=""/>
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value=""/>
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="224039ff"/>
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="1f3e38b2"/>
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="14262694"/>
     <option name="TEARLINE_COLOR" value="254d45" />
     <option name="VISUAL_INDENT_GUIDE" value="2e5e4a" />
   </colors>
