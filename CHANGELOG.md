@@ -1,8 +1,11 @@
 # Changelog
 
-### 4.2
+### 4.3
 - Fixed scrollbars
 - Fixed Nature Green VCS styling
+
+### 4.2
+- Fixed background inheritance in PHPStorm
 
 ### 4.1
 - Added missing support for all intellij products across different versions

@@ -105,6 +105,10 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value>
+      </value>
+    </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="6a8759" />

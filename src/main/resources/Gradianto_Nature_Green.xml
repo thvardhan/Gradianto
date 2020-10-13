@@ -82,6 +82,10 @@
         <option name="FOREGROUND" value="6ea58a" />
       </value>
     </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value>
+      </value>
+    </option>
     <option name="DEFAULT_COMMA">
       <value>
         <option name="FOREGROUND" value="ccb86c" />

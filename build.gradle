@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'thvardhan'
-version '4.2'
+version '4.3'
 
 repositories {
     mavenCentral()
@@ -21,7 +21,7 @@ intellij {
 patchPluginXml {
     intellij.updateSinceUntilBuild = false
     changeNotes """
-      <h3>4.2</h3>
+      <h3>4.3</h3>
       <ul>
         <li>Fixed scrollbars</li>
         <li>Fixed Nature Green VCS styling</li>

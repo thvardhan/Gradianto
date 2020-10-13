@@ -66,6 +66,10 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value>
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="616fc6" />

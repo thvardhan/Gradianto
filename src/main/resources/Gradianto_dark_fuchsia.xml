@@ -194,6 +194,10 @@
         <option name="FOREGROUND" value="a3ccb5" />
       </value>
     </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value>
+      </value>
+    </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="a5aa7c" />
