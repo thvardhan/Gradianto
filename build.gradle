@@ -25,6 +25,7 @@ patchPluginXml {
       <ul>
         <li>Fixed scrollbars</li>
         <li>Fixed Nature Green VCS styling</li>
+        <li>Fixed tabbed panes</li>
       </ul>
       """
 }
