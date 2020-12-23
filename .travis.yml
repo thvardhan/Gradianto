@@ -19,7 +19,6 @@ deploy:
   file:
   - build/libs/*
   skip_cleanup: true
-  on:
-    tags: true
+
 dd:
   secure: aqOI6EFV1l07Rj1JqT34YcWz8RMdRROwOVDqBTi/7/ZQZV0+xfDiAlT5llCBlinj1RHP+sO9Z8jXPxjI9iVWT/Xye138R21v9wZ87Zh8j7nIVwEoiRf6QRyiyxPJUsSQsLfv5SE8Gg051la35IrNS2A9Zhq9f5VJ9a+itAWXR2UWsM30bWR+EcjWV0j0I/DGhouCrwAbKqBbnTvGGzoo/reLcksBCpg0qrsRf2sxYp75NLE/ZUaOetAuW4Wj9Qbx5Ky3ZYtuYpCeg5x/38gerHlTUjinuwag+RITBGeusQnFsyO8JxYj897j/tdZcUOl/zKEsTi6Uz+oMOrrpQVvR3+TV9NNs3jy6y+PGdlv3QQHQoJSa5w1DoJTNB+eIukTaEybyrbv5uRyApxBV5E/xJUXcKem/QKv4s5xrMLIe/lPzWJQESy5r2/oeqf3Wu6p57oTGFi4geJCkt7BE0C+AcZWod0A1d4aa0Umo648YiDXpebAifA4oWEoqeH2+BVwxZm2FveQxEDTn+Tcj/awFDxJucPdbKBnWrk1lazbGgoqr886kyAiOgVwo88sKzFnieb6kcJnp7XBKAj+KQMaRmWdxEzKYlRRO1GKUlSv+AGW2MnXhaYLP/rqOxqWuWEVvYFe49mlcDW+PS/JcEooUt2enlBKpO4AVUB0eK9Ft4Y=
