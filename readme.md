@@ -1,4 +1,4 @@
-# Gradianto - JetBrains IDE theme [![Twitter](https://img.shields.io/twitter/follow/thvardhan.svg?style=social&label=@thvardhan)](https://twitter.com/thvardhan)
+# Gradianto - JetBrains IDE theme [![Build Status](https://www.travis-ci.com/thvardhan/Gradianto.svg?branch=master)](https://www.travis-ci.com/thvardhan/Gradianto) [![Twitter](https://img.shields.io/twitter/follow/thvardhan.svg?style=social&label=@thvardhan)](https://twitter.com/thvardhan)
 Gradianto aims to be easy on the eyes while being colorful and bright. Gradianto ships with the gradients found in nature. There is something for everyone.
 
 ## Winner of Intellij theme contest 2019

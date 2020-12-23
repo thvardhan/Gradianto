@@ -18,5 +18,5 @@ deploy:
   api_key: $GITHUB_TOKEN
   file_glob: true
   file:
-  - "build/distributions/*"
+  - "build/libs/*"
   skip_cleanup: true
