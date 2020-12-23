@@ -16,6 +16,7 @@ script:
 deploy:
   provider: releases
   api_key: $GITHUB_TOKEN
+  file_glob: true
   file:
-  - build/libs/*
+  - "build/distributions/*"
   skip_cleanup: true
