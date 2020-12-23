@@ -19,31 +19,31 @@
     <option name="SELECTED_TEARLINE_COLOR" value="4d9c83" />
     <option name="SELECTION_BACKGROUND" value="d4a42" />
     <option name="SEPARATOR_BELOW_COLOR" value="373c3b" />
-    <option name="ScrollBar.background" value="16322cff"/>
-    <option name="ScrollBar.trackColor" value=""/>
-    <option name="ScrollBar.thumbColor" value="20403d94"/>
-    <option name="ScrollBar.thumbBorderColor" value="39666394"/>
-    <option name="ScrollBar.hoverTrackColor" value=""/>
-    <option name="ScrollBar.hoverThumbColor" value="1f3e38b2"/>
-    <option name="ScrollBar.hoverThumbBorderColor" value="14262694"/>
-    <option name="ScrollBar.Transparent.trackColor" value=""/>
-    <option name="ScrollBar.Transparent.thumbColor" value="20403d94"/>
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="39666394"/>
-    <option name="ScrollBar.Transparent.hoverTrackColor" value="224039ff"/>
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="1f3e38b2"/>
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="14262694"/>
-    <option name="ScrollBar.Mac.trackColor" value=""/>
-    <option name="ScrollBar.Mac.thumbColor" value="20403d94"/>
-    <option name="ScrollBar.Mac.thumbBorderColor" value="39666394"/>
-    <option name="ScrollBar.Mac.hoverTrackColor" value=""/>
-    <option name="ScrollBar.Mac.hoverThumbColor" value="1f3e38b2"/>
-    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="14262694"/>
-    <option name="ScrollBar.Mac.Transparent.trackColor" value=""/>
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value=""/>
-    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value=""/>
-    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="224039ff"/>
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="1f3e38b2"/>
-    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="14262694"/>
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="14262694" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="497486ff" />
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="224039" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="" />
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="" />
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="14262694" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="497486ff" />
+    <option name="ScrollBar.Mac.hoverTrackColor" value="" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="39666394" />
+    <option name="ScrollBar.Mac.thumbColor" value="406480ff" />
+    <option name="ScrollBar.Mac.trackColor" value="" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="14262694" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="497486ff" />
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="224039" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="39666394" />
+    <option name="ScrollBar.Transparent.thumbColor" value="406480ff" />
+    <option name="ScrollBar.Transparent.trackColor" value="" />
+    <option name="ScrollBar.background" value="16322c" />
+    <option name="ScrollBar.hoverThumbBorderColor" value="14262694" />
+    <option name="ScrollBar.hoverThumbColor" value="497486ff" />
+    <option name="ScrollBar.hoverTrackColor" value="" />
+    <option name="ScrollBar.thumbBorderColor" value="39666394" />
+    <option name="ScrollBar.thumbColor" value="406480ff" />
+    <option name="ScrollBar.trackColor" value="" />
     <option name="TEARLINE_COLOR" value="254d45" />
     <option name="VISUAL_INDENT_GUIDE" value="2e5e4a" />
   </colors>
@@ -103,10 +103,6 @@
     <option name="DEFAULT_CLASS_REFERENCE">
       <value>
         <option name="FOREGROUND" value="6ea58a" />
-      </value>
-    </option>
-    <option name="PHP_SCRIPTING_BACKGROUND">
-      <value>
       </value>
     </option>
     <option name="DEFAULT_COMMA">
@@ -258,11 +254,12 @@
     </option>
     <option name="DUPLICATE_FROM_SERVER">
       <value>
-        <option name="BACKGROUND" value="2d5e4a" />
+        <option name="BACKGROUND" value="2d475e" />
       </value>
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="402029" />
         <option name="EFFECT_COLOR" value="e91e63" />
         <option name="ERROR_STRIPE_COLOR" value="e91e63" />
         <option name="EFFECT_TYPE" value="2" />
@@ -279,6 +276,14 @@
         <option name="FOREGROUND" value="287bde" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="287bde" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GENERIC_SERVER_ERROR_OR_WARNING">
+      <value>
+        <option name="BACKGROUND" value="3e4020" />
+        <option name="EFFECT_COLOR" value="f49810" />
+        <option name="ERROR_STRIPE_COLOR" value="b06100" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -333,6 +338,12 @@
         <option name="FOREGROUND" value="5686aa" />
       </value>
     </option>
+    <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="bc3c4f" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="45bc88" />
@@ -345,6 +356,9 @@
         <option name="FOREGROUND" value="53836c" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value />
     </option>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
     <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
@@ -397,7 +411,7 @@
     <option name="VELOCITY_SCRIPTING_BACKGROUND" baseAttributes="JSP_SCRIPTING_BACKGROUND" />
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3c5224" />
+        <option name="BACKGROUND" value="505224" />
         <option name="ERROR_STRIPE_COLOR" value="be9117" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -411,6 +425,7 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bc637e" />
+        <option name="BACKGROUND" value="40203c" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />

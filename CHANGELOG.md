@@ -1,5 +1,10 @@
 # Changelog
 
+### 4.4
+- Added bold error highlight in Nature Green
+- Fixed scrollbar colors
+- Add travis
+
 ### 4.3
 - Fixed scrollbars
 - Fixed Nature Green VCS styling
