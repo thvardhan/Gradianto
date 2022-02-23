@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'thvardhan'
-version '4.4'
+version '4.5'
 
 repositories {
     mavenCentral()
@@ -21,10 +21,9 @@ intellij {
 patchPluginXml {
     intellij.updateSinceUntilBuild = false
     changeNotes """
-      <h3>4.4</h3>
+      <h3>4.5</h3>
       <ul>
-        <li>Added bold error highlight in Nature Green</li>
-        <li>Fixed scrollbar colors</li>
+        <li>Added logcat color scheme for android</li>
       </ul>
       """
 }
