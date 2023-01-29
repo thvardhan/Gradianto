@@ -3,7 +3,6 @@
     <option name="CARET_ROW_COLOR" value="281f2d" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1c1122" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="112116" />
-    <option name="DOCUMENTATION_COLOR" value="4d2046" />
     <option name="DOC_COMMENT_LINK" value="5f9267" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9e9d24" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="4a452a" />
@@ -19,33 +18,35 @@
     <option name="SELECTED_TEARLINE_COLOR" value="9168a8" />
     <option name="SELECTION_BACKGROUND" value="37204a" />
     <option name="SEPARATOR_BELOW_COLOR" value="33263b" />
-    <option name="ScrollBar.background" value="241632ff"/>
-    <option name="ScrollBar.trackColor" value=""/>
-    <option name="ScrollBar.thumbColor" value="694f92ff"/>
-    <option name="ScrollBar.thumbBorderColor" value="2c152fff"/>
-    <option name="ScrollBar.hoverTrackColor" value=""/>
-    <option name="ScrollBar.hoverThumbColor" value="694f92ff"/>
-    <option name="ScrollBar.hoverThumbBorderColor" value="3a2241b2"/>
-    <option name="ScrollBar.Transparent.trackColor" value=""/>
-    <option name="ScrollBar.Transparent.thumbColor" value="694f92ff"/>
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="2c152fff"/>
-    <option name="ScrollBar.Transparent.hoverTrackColor" value="3d2240ff"/>
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="694f92ff"/>
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="3a2241b2"/>
-    <option name="ScrollBar.Mac.trackColor" value=""/>
-    <option name="ScrollBar.Mac.thumbColor" value="694f92ff"/>
-    <option name="ScrollBar.Mac.thumbBorderColor" value="2c152fff"/>
-    <option name="ScrollBar.Mac.hoverTrackColor" value=""/>
-    <option name="ScrollBar.Mac.hoverThumbColor" value="694f92ff"/>
-    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="3a2241b2"/>
-    <option name="ScrollBar.Mac.Transparent.trackColor" value=""/>
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value=""/>
-    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value=""/>
-    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="3d2240ff"/>
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="472950b2"/>
-    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="12182994"/>
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="12182994" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="472950b2" />
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="3d2240" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="" />
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="" />
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="3a2241b2" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="694f92" />
+    <option name="ScrollBar.Mac.hoverTrackColor" value="" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="2c152f" />
+    <option name="ScrollBar.Mac.thumbColor" value="694f92" />
+    <option name="ScrollBar.Mac.trackColor" value="" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="3a2241b2" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="694f92" />
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="3d2240" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="2c152f" />
+    <option name="ScrollBar.Transparent.thumbColor" value="694f92" />
+    <option name="ScrollBar.Transparent.trackColor" value="" />
+    <option name="ScrollBar.background" value="241632" />
+    <option name="ScrollBar.hoverThumbBorderColor" value="3a2241b2" />
+    <option name="ScrollBar.hoverThumbColor" value="694f92" />
+    <option name="ScrollBar.hoverTrackColor" value="" />
+    <option name="ScrollBar.thumbBorderColor" value="2c152f" />
+    <option name="ScrollBar.thumbColor" value="694f92" />
+    <option name="ScrollBar.trackColor" value="" />
     <option name="TEARLINE_COLOR" value="3e2b48" />
     <option name="VISUAL_INDENT_GUIDE" value="412f4b" />
+    <option name="LOOKUP_COLOR" value="312234"/>
+
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -217,10 +218,6 @@
         <option name="FOREGROUND" value="a3ccb5" />
       </value>
     </option>
-    <option name="PHP_SCRIPTING_BACKGROUND">
-      <value>
-      </value>
-    </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="a5aa7c" />
@@ -340,27 +337,27 @@
     </option>
     <option name="LOGCAT_ASSERT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="CC666E"/>
+        <option name="FOREGROUND" value="cc666e" />
       </value>
     </option>
     <option name="LOGCAT_DEBUG_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="299999"/>
+        <option name="FOREGROUND" value="299999" />
       </value>
     </option>
     <option name="LOGCAT_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="CC666E"/>
+        <option name="FOREGROUND" value="cc666e" />
       </value>
     </option>
     <option name="LOGCAT_INFO_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ABC023"/>
+        <option name="FOREGROUND" value="abc023" />
       </value>
     </option>
     <option name="LOGCAT_VERBOSE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="5394EC"/>
+        <option name="FOREGROUND" value="5394ec" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
@@ -375,6 +372,9 @@
         <option name="FOREGROUND" value="53836c" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value />
     </option>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
     <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />

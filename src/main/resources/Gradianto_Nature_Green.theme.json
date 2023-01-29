@@ -215,13 +215,14 @@
     },
     "DragAndDrop": {
       "areaForeground": "#e5e5e5",
-      "areaBackground": "#243937",
+      "areaBackground": "#2439378a",
       "areaBorderColor": "#143427"
     },
     "Plugins": {
       "SectionHeader.background": "#2a6346",
       "tagBackground": "#3d5a50",
-      "lightSelectionBackground": "#3c7e64"
+      "lightSelectionBackground": "#356f58",
+      "hoverBackground": "#325e4d"
     },
     "VersionControl": {
       "Log.Commit.currentBranchBackground": "#225740",

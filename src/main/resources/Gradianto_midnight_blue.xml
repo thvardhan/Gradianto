@@ -53,6 +53,8 @@
     <option name="ADDED_LINES_COLOR" value="4e4a72" />
     <option name="MODIFIED_LINES_COLOR" value="2e4650" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="484c38" />
+    <option name="LOOKUP_COLOR" value="282839"/>
+
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">

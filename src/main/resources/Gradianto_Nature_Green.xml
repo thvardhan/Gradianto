@@ -12,6 +12,7 @@
     <option name="INFORMATION_HINT" value="324d48" />
     <option name="LINE_NUMBERS_COLOR" value="8d9296" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="bebdbd" />
+    <option name="LOOKUP_COLOR" value="20403f" />
     <option name="NOTIFICATION_BACKGROUND" value="d3d70" />
     <option name="RECENT_LOCATIONS_SELECTION" value="304d47" />
     <option name="RIGHT_MARGIN_COLOR" value="366e62" />
@@ -20,32 +21,40 @@
     <option name="SELECTION_BACKGROUND" value="d4a42" />
     <option name="SEPARATOR_BELOW_COLOR" value="373c3b" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="14262694" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="497486ff" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="497486" />
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="224039" />
     <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="" />
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="14262694" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="497486ff" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="497486" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="" />
     <option name="ScrollBar.Mac.thumbBorderColor" value="39666394" />
-    <option name="ScrollBar.Mac.thumbColor" value="406480ff" />
+    <option name="ScrollBar.Mac.thumbColor" value="406480" />
     <option name="ScrollBar.Mac.trackColor" value="" />
     <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="14262694" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="497486ff" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="497486" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="224039" />
     <option name="ScrollBar.Transparent.thumbBorderColor" value="39666394" />
-    <option name="ScrollBar.Transparent.thumbColor" value="406480ff" />
+    <option name="ScrollBar.Transparent.thumbColor" value="406480" />
     <option name="ScrollBar.Transparent.trackColor" value="" />
     <option name="ScrollBar.background" value="16322c" />
     <option name="ScrollBar.hoverThumbBorderColor" value="14262694" />
-    <option name="ScrollBar.hoverThumbColor" value="497486ff" />
+    <option name="ScrollBar.hoverThumbColor" value="497486" />
     <option name="ScrollBar.hoverTrackColor" value="" />
     <option name="ScrollBar.thumbBorderColor" value="39666394" />
-    <option name="ScrollBar.thumbColor" value="406480ff" />
+    <option name="ScrollBar.thumbColor" value="406480" />
     <option name="ScrollBar.trackColor" value="" />
     <option name="TEARLINE_COLOR" value="254d45" />
     <option name="VISUAL_INDENT_GUIDE" value="2e5e4a" />
+    <option name="ADDED_LINES_COLOR" value="436143" />
+    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="6a494b" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="174726" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="174718" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="204717" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="2d4717" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="374717" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="4a676a" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -248,7 +257,7 @@
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="3e7052" />
+        <option name="BACKGROUND" value="3e6170" />
         <option name="ERROR_STRIPE_COLOR" value="8d4a5f" />
       </value>
     </option>
@@ -340,27 +349,27 @@
     </option>
     <option name="LOGCAT_ASSERT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="CC666E"/>
+        <option name="FOREGROUND" value="cc666e" />
       </value>
     </option>
     <option name="LOGCAT_DEBUG_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="299999"/>
+        <option name="FOREGROUND" value="299999" />
       </value>
     </option>
     <option name="LOGCAT_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="CC666E"/>
+        <option name="FOREGROUND" value="cc666e" />
       </value>
     </option>
     <option name="LOGCAT_INFO_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ABC023"/>
+        <option name="FOREGROUND" value="abc023" />
       </value>
     </option>
     <option name="LOGCAT_VERBOSE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="5394EC"/>
+        <option name="FOREGROUND" value="5394ec" />
       </value>
     </option>
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
@@ -421,8 +430,8 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="24594d" />
-        <option name="EFFECT_COLOR" value="223770" />
+        <option name="BACKGROUND" value="204e43" />
+        <option name="EFFECT_COLOR" value="22703d" />
         <option name="ERROR_STRIPE_COLOR" value="488093" />
       </value>
     </option>
@@ -461,6 +470,67 @@
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="aa614f" />
+      </value>
+    </option>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="afafaf" />
+        <option name="BACKGROUND" value="0" />
+      </value>
+    </option>
+    <option name="CONSOLE_WHITE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="2f2f2f" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_1_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="31402c" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_2_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="344d57" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_4_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="3f3357" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_5_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="523629" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_6_MARKER">
+      <value>
+        <option name="FOREGROUND" value="313131" />
+        <option name="BACKGROUND" value="716155" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_6_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="52442c" />
+      </value>
+    </option>
+    <option name="DIFF_CONFLICT">
+      <value>
+        <option name="BACKGROUND" value="6f4a40" />
+        <option name="ERROR_STRIPE_COLOR" value="8f5247" />
+      </value>
+    </option>
+    <option name="DIFF_DELETED">
+      <value>
+        <option name="BACKGROUND" value="29313d" />
+        <option name="ERROR_STRIPE_COLOR" value="656e76" />
+      </value>
+    </option>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="BACKGROUND" value="1f4738" />
+        <option name="ERROR_STRIPE_COLOR" value="2c5f3d" />
       </value>
     </option>
   </attributes>

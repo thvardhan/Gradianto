@@ -141,7 +141,7 @@
       "selectedBackground": "#324d65",
       "underlinedTabBackground": "#324d65",
       "background": "#243647",
-      "underlineColor": "#46628f",
+      "underlineColor": "#4d6690",
       "hoverMaskColor": "#46628f",
       "inactiveMaskColor": "#24334aff"
     },
@@ -247,12 +247,13 @@
     },
     "DragAndDrop": {
       "areaForeground": "#e5e5e5",
-      "areaBackground": "#242b39",
+      "areaBackground": "#242b394a",
       "areaBorderColor": "#141834"
     },
     "Plugins": {
       "SectionHeader.background": "#2a3563",
       "tagBackground": "#3d445a",
+      "hoverBackground": "#495787",
       "lightSelectionBackground": "#3c4b7e"
     },
     "EditorPane.inactiveBackground": "#25334aff"

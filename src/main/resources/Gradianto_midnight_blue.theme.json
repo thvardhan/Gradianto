@@ -67,7 +67,7 @@
     "CompletionPopup":  {
       "matchForeground": "#cecb46",
       "matchSelectionForeground": "#ffcd7e",
-      "foreground": "#d4d4d4",
+      "foreground": "#c2c2c2",
       "selectionBackground": "#5d5d84"
     },
     "MenuBar.borderColor": "#221b3c",

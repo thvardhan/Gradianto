@@ -71,9 +71,9 @@
     "RadioButton": {
       "foreground": "#c8ccd0"
     },
-
     "CompletionPopup":  {
-      "matchForeground": "#652683",
+
+      "matchForeground": "#cf98db",
       "matchSelectionForeground": "#9057f2"
     },
 
@@ -123,7 +123,7 @@
       "selectedBackground": "#8a599e",
       "underlinedTabBackground": "#5c306f",
       "background": "#3e1c4c",
-      "underlineColor": "#693d6c",
+      "underlineColor": "#8b5c8e",
       "hoverMaskColor": "#71468f",
       "inactiveMaskColor": "#34244aff"
     },
@@ -239,12 +239,13 @@
     },
     "DragAndDrop": {
       "areaForeground": "#FFFFFF",
-      "areaBackground": "#745382",
+      "areaBackground": "#7453829a",
       "areaBorderColor": "#392d42"
     },
     "Plugins": {
       "SectionHeader.background": "#7b638b",
       "tagBackground": "#7d6089",
+      "hoverBackground": "#7a5a89",
       "lightSelectionBackground": "#4e3a57",
       "Tab.selectedBackground": "#a778bfff",
       "Tab.hoverBackground": "#82519cff"
