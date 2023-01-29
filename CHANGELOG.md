@@ -1,5 +1,8 @@
 # Changelog
 
+### 4.6
+- Fixed ton of consistency issues and added support for new IDEs
+
 ### 4.4
 - Added bold error highlight in Nature Green
 - Fixed scrollbar colors
