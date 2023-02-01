@@ -1,5 +1,6 @@
 <scheme name="Gradianto Nature Green" version="142" parent_scheme="Darcula">
   <colors>
+    <option name="ADDED_LINES_COLOR" value="436143" />
     <option name="CARET_ROW_COLOR" value="1d3b35" />
     <option name="CONSOLE_BACKGROUND_KEY" value="132623" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="112116" />
@@ -8,6 +9,7 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9e9d24" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="1b4a34" />
     <option name="GUTTER_BACKGROUND" value="1d3738" />
+    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="6a494b" />
     <option name="INDENT_GUIDE" value="234537" />
     <option name="INFORMATION_HINT" value="324d48" />
     <option name="LINE_NUMBERS_COLOR" value="8d9296" />
@@ -46,14 +48,12 @@
     <option name="ScrollBar.thumbColor" value="406480" />
     <option name="ScrollBar.trackColor" value="" />
     <option name="TEARLINE_COLOR" value="254d45" />
-    <option name="VISUAL_INDENT_GUIDE" value="2e5e4a" />
-    <option name="ADDED_LINES_COLOR" value="436143" />
-    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="6a494b" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="174726" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="174718" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="204717" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="2d4717" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="374717" />
+    <option name="VISUAL_INDENT_GUIDE" value="2e5e4a" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="4a676a" />
   </colors>
   <attributes>
@@ -81,10 +81,22 @@
         <option name="BACKGROUND" value="295c53" />
       </value>
     </option>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="0" />
+      </value>
+    </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="3c7f6d" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CONSOLE_WHITE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="CTRL_CLICKABLE">
@@ -98,6 +110,37 @@
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="CodeWithMe.USER_1_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="31402c" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_2_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="344d57" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_4_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="3f3357" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_5_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="523629" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_6_MARKER">
+      <value>
+        <option name="FOREGROUND" value="313131" />
+        <option name="BACKGROUND" value="716155" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_6_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="52442c" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="5e946c" />
@@ -253,6 +296,24 @@
       <value>
         <option name="EFFECT_COLOR" value="c17b5c" />
         <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="DIFF_CONFLICT">
+      <value>
+        <option name="BACKGROUND" value="6f4a40" />
+        <option name="ERROR_STRIPE_COLOR" value="8f5247" />
+      </value>
+    </option>
+    <option name="DIFF_DELETED">
+      <value>
+        <option name="BACKGROUND" value="29313d" />
+        <option name="ERROR_STRIPE_COLOR" value="656e76" />
+      </value>
+    </option>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="BACKGROUND" value="1f4738" />
+        <option name="ERROR_STRIPE_COLOR" value="2c5f3d" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
@@ -470,67 +531,6 @@
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="aa614f" />
-      </value>
-    </option>
-    <option name="CONSOLE_BLACK_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="afafaf" />
-        <option name="BACKGROUND" value="0" />
-      </value>
-    </option>
-    <option name="CONSOLE_WHITE_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="2f2f2f" />
-        <option name="BACKGROUND" value="ffffff" />
-      </value>
-    </option>
-    <option name="CodeWithMe.USER_1_SELECTION">
-      <value>
-        <option name="BACKGROUND" value="31402c" />
-      </value>
-    </option>
-    <option name="CodeWithMe.USER_2_SELECTION">
-      <value>
-        <option name="BACKGROUND" value="344d57" />
-      </value>
-    </option>
-    <option name="CodeWithMe.USER_4_SELECTION">
-      <value>
-        <option name="BACKGROUND" value="3f3357" />
-      </value>
-    </option>
-    <option name="CodeWithMe.USER_5_SELECTION">
-      <value>
-        <option name="BACKGROUND" value="523629" />
-      </value>
-    </option>
-    <option name="CodeWithMe.USER_6_MARKER">
-      <value>
-        <option name="FOREGROUND" value="313131" />
-        <option name="BACKGROUND" value="716155" />
-      </value>
-    </option>
-    <option name="CodeWithMe.USER_6_SELECTION">
-      <value>
-        <option name="BACKGROUND" value="52442c" />
-      </value>
-    </option>
-    <option name="DIFF_CONFLICT">
-      <value>
-        <option name="BACKGROUND" value="6f4a40" />
-        <option name="ERROR_STRIPE_COLOR" value="8f5247" />
-      </value>
-    </option>
-    <option name="DIFF_DELETED">
-      <value>
-        <option name="BACKGROUND" value="29313d" />
-        <option name="ERROR_STRIPE_COLOR" value="656e76" />
-      </value>
-    </option>
-    <option name="DIFF_INSERTED">
-      <value>
-        <option name="BACKGROUND" value="1f4738" />
-        <option name="ERROR_STRIPE_COLOR" value="2c5f3d" />
       </value>
     </option>
   </attributes>

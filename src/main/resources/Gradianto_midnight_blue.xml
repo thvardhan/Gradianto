@@ -1,5 +1,6 @@
 <scheme name="Gradianto Midnight Blue" version="142" parent_scheme="Darcula">
   <colors>
+    <option name="ADDED_LINES_COLOR" value="4e4a72" />
     <option name="CARET_ROW_COLOR" value="27243d" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1a1a25" />
     <option name="DELETED_LINES_COLOR" value="524c76" />
@@ -10,6 +11,8 @@
     <option name="INFORMATION_HINT" value="39354d" />
     <option name="LINE_NUMBERS_COLOR" value="b1b7bc" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="dbe3e9" />
+    <option name="LOOKUP_COLOR" value="282839" />
+    <option name="MODIFIED_LINES_COLOR" value="2e4650" />
     <option name="NOTIFICATION_BACKGROUND" value="2e3457" />
     <option name="RECENT_LOCATIONS_SELECTION" value="30384d" />
     <option name="RIGHT_MARGIN_COLOR" value="342d4d" />
@@ -50,11 +53,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_5" value="28174c" />
     <option name="VISUAL_INDENT_GUIDE" value="32343c" />
     <option name="WHITESPACES" value="333850" />
-    <option name="ADDED_LINES_COLOR" value="4e4a72" />
-    <option name="MODIFIED_LINES_COLOR" value="2e4650" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="484c38" />
-    <option name="LOOKUP_COLOR" value="282839"/>
-
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -96,6 +95,24 @@
         <option name="FOREGROUND" value="323248" />
       </value>
     </option>
+    <option name="CONSOLE_BLACK_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="0" />
+      </value>
+    </option>
+    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="97c9c8" />
+        <option name="BACKGROUND" value="6e6e" />
+      </value>
+    </option>
+    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="8eb666" />
+        <option name="BACKGROUND" value="458500" />
+      </value>
+    </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
         <option name="FOREGROUND" value="8ea3d0" />
@@ -112,6 +129,18 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="CONSOLE_WHITE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="a68a0d" />
+        <option name="BACKGROUND" value="312838" />
+      </value>
+    </option>
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="589df6" />
@@ -123,6 +152,60 @@
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="CodeWithMe.USER_1_MARKER">
+      <value>
+        <option name="FOREGROUND" value="313131" />
+        <option name="BACKGROUND" value="503b85" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_1_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="3f324c" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_2_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="314a53" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_3_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="685987" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_4_MARKER">
+      <value>
+        <option name="FOREGROUND" value="313131" />
+        <option name="BACKGROUND" value="5c5c5c" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_4_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="494339" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_5_MARKER">
+      <value>
+        <option name="FOREGROUND" value="313131" />
+        <option name="BACKGROUND" value="5c5c5c" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_5_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="2a3c50" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_6_MARKER">
+      <value>
+        <option name="FOREGROUND" value="313131" />
+        <option name="BACKGROUND" value="746856" />
+      </value>
+    </option>
+    <option name="CodeWithMe.USER_6_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="303830" />
+      </value>
+    </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="616fc6" />
@@ -227,6 +310,30 @@
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
+    <option name="DIFF_CONFLICT">
+      <value>
+        <option name="BACKGROUND" value="5c2727" />
+        <option name="ERROR_STRIPE_COLOR" value="bf6c6c" />
+      </value>
+    </option>
+    <option name="DIFF_DELETED">
+      <value>
+        <option name="BACKGROUND" value="382f2b" />
+        <option name="ERROR_STRIPE_COLOR" value="656e76" />
+      </value>
+    </option>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="BACKGROUND" value="2e402b" />
+        <option name="ERROR_STRIPE_COLOR" value="447152" />
+      </value>
+    </option>
+    <option name="DIFF_MODIFIED">
+      <value>
+        <option name="BACKGROUND" value="2b3e40" />
+        <option name="ERROR_STRIPE_COLOR" value="43698d" />
+      </value>
+    </option>
     <option name="DUPLICATE_FROM_SERVER">
       <value>
         <option name="BACKGROUND" value="41345e" />
@@ -256,6 +363,11 @@
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" value="287bde" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="HTTP_REQUEST_MESSAGE_BODY">
+      <value>
+        <option name="BACKGROUND" value="272738" />
       </value>
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
@@ -358,6 +470,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
+      <value>
+        <option name="BACKGROUND" value="312838" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="d8d8d8" />
@@ -408,124 +525,6 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bc3b35" />
-      </value>
-    </option>
-    <option name="CONSOLE_BLACK_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="d9d9d9" />
-        <option name="BACKGROUND" value="0" />
-      </value>
-    </option>
-    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="6e6e" />
-      </value>
-    </option>
-    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="d9d9d9" />
-        <option name="BACKGROUND" value="458500" />
-      </value>
-    </option>
-    <option name="CONSOLE_WHITE_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="585858" />
-        <option name="BACKGROUND" value="ffffff" />
-      </value>
-    </option>
-    <option name="CONSOLE_YELLOW_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="a68a0d" />
-        <option name="BACKGROUND" value="312838" />
-      </value>
-    </option>
-    <option name="CodeWithMe.USER_1_MARKER">
-      <value>
-        <option name="FOREGROUND" value="313131" />
-        <option name="BACKGROUND" value="503b85" />
-      </value>
-    </option>
-    <option name="CodeWithMe.USER_1_SELECTION">
-      <value>
-        <option name="BACKGROUND" value="3f324c" />
-      </value>
-    </option>
-    <option name="CodeWithMe.USER_2_SELECTION">
-      <value>
-        <option name="BACKGROUND" value="314a53" />
-      </value>
-    </option>
-    <option name="CodeWithMe.USER_3_SELECTION">
-      <value>
-        <option name="BACKGROUND" value="685987" />
-      </value>
-    </option>
-    <option name="CodeWithMe.USER_4_MARKER">
-      <value>
-        <option name="FOREGROUND" value="313131" />
-        <option name="BACKGROUND" value="5c5c5c" />
-      </value>
-    </option>
-    <option name="CodeWithMe.USER_4_SELECTION">
-      <value>
-        <option name="BACKGROUND" value="494339" />
-      </value>
-    </option>
-    <option name="CodeWithMe.USER_5_MARKER">
-      <value>
-        <option name="FOREGROUND" value="313131" />
-        <option name="BACKGROUND" value="5c5c5c" />
-      </value>
-    </option>
-    <option name="CodeWithMe.USER_5_SELECTION">
-      <value>
-        <option name="BACKGROUND" value="2a3c50" />
-      </value>
-    </option>
-    <option name="CodeWithMe.USER_6_MARKER">
-      <value>
-        <option name="FOREGROUND" value="313131" />
-        <option name="BACKGROUND" value="746856" />
-      </value>
-    </option>
-    <option name="CodeWithMe.USER_6_SELECTION">
-      <value>
-        <option name="BACKGROUND" value="303830" />
-      </value>
-    </option>
-    <option name="DIFF_CONFLICT">
-      <value>
-        <option name="BACKGROUND" value="5c2727" />
-        <option name="ERROR_STRIPE_COLOR" value="bf6c6c" />
-      </value>
-    </option>
-    <option name="DIFF_DELETED">
-      <value>
-        <option name="BACKGROUND" value="382f2b" />
-        <option name="ERROR_STRIPE_COLOR" value="656e76" />
-      </value>
-    </option>
-    <option name="DIFF_INSERTED">
-      <value>
-        <option name="BACKGROUND" value="2e402b" />
-        <option name="ERROR_STRIPE_COLOR" value="447152" />
-      </value>
-    </option>
-    <option name="DIFF_MODIFIED">
-      <value>
-        <option name="BACKGROUND" value="2b3e40" />
-        <option name="ERROR_STRIPE_COLOR" value="43698d" />
-      </value>
-    </option>
-    <option name="HTTP_REQUEST_MESSAGE_BODY">
-      <value>
-        <option name="BACKGROUND" value="272738" />
-      </value>
-    </option>
-    <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
-      <value>
-        <option name="BACKGROUND" value="312838" />
       </value>
     </option>
   </attributes>

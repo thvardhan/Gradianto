@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'thvardhan'
-version '4.6'
+version '4.7'
 
 repositories {
     mavenCentral()
@@ -21,9 +21,9 @@ intellij {
 patchPluginXml {
     intellij.updateSinceUntilBuild = false
     changeNotes """
-      <h3>4.6</h3>
+      <h3>4.7</h3>
       <ul>
-        <li>Added support for new jetbrain IDEs and fixed various colors across the platforms</li>
+        <li>Fixed console colors</li>
       </ul>
       """
 }
