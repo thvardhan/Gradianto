@@ -44,6 +44,18 @@
       "hash": "#3a58793a",
       "hoverBackground": "#324565"
     },
+    "MainToolbar": {
+      "inactiveBackground": "#1b2639",
+      "background": "#212f47",
+      "Dropdown": {
+        "hoverBackground": "#324565"
+      },
+      "Icon": {
+        "borderInsets": "10,10,10,10",
+        "hoverBackground": "#324565",
+        "pressedBackground": "#394e72"
+      }
+    },
     "VersionControl" :{
       "Log.Commit.currentBranchBackground": "#1b2638",
       "Log.Commit.unmatchedForeground": "#9ea8c2",
