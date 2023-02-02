@@ -45,6 +45,7 @@
     <option name="ScrollBar.thumbColor" value="3c557c" />
     <option name="ScrollBar.trackColor" value="" />
     <option name="TAB_UNDERLINE" value="3d7ec0" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="365879" />
     <option name="TEARLINE_COLOR" value="415284" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="2e345f" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="2e425f" />
@@ -53,7 +54,6 @@
     <option name="VCS_ANNOTATIONS_COLOR_5" value="2e585f" />
     <option name="VISUAL_INDENT_GUIDE" value="415385" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="3c676a" />
-    <option name="TAB_UNDERLINE_INACTIVE" value="365879" />
   </colors>
   <attributes>
     <option name="BREADCRUMBS_CURRENT">

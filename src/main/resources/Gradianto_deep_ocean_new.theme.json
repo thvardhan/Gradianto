@@ -9,7 +9,7 @@
       "background": "#1c2739",
       "foreground": "#c1c1c1",
 
-      "infoForeground": "#d7ff18c1",
+      "infoForeground": "#cdcdcdc1",
 
       "selectionBackground": "#39487e",
       "selectionForeground": "#e2e2e2",
@@ -29,6 +29,7 @@
 
       "separatorColor": "#35435c"
     },
+
     "RunWidget": {
       "background": "#2c3c58",
       "foreground": "#e2e2e2",
@@ -36,10 +37,26 @@
       "separatorColor": "#43516c"
     },
     "Tree.background": "#24334a",
-    "VersionControl" :{
-      "Log.Commit.currentBranchBackground": "#263d61",
-      "Log.Commit.unmatchedForeground": "#7f8aa8"
+    "Tree": {
+      "rowHeight": 22,
+      "hoverInactiveBackground": "#324565",
+      "paintLines": true,
+      "hash": "#3a58793a",
+      "hoverBackground": "#324565"
     },
+    "VersionControl" :{
+      "Log.Commit.currentBranchBackground": "#1b2638",
+      "Log.Commit.unmatchedForeground": "#9ea8c2",
+      "Log.Commit.hoveredBackground": "#324565",
+      "Log.Commit.rowHeight": 30,
+      "Log.Commit.selectionInactiveBackground": "#283752",
+      "Log.Commit.selectionBackground": "#384d6f",
+      "GitLog.tagIconColor": "#bcc4ce",
+      "GitLog.localBranchIconColor": "#65a05c",
+      "RefLabel.backgroundBrightness": 0.99,
+      "RefLabel.backgroundBase": "#04d9ffff"
+    },
+
     "ActionButton": {
       "hoverBackground": "#324565",
       "pressedBackground": "#284267",
@@ -108,8 +125,12 @@
       }
     },
 
+    "NotificationsToolwindow.newNotification.background" : "#314465",
+    "NotificationsToolwindow.newNotification.hoverBackground" : "#3c557cff",
+    "NotificationsToolwindow.Notification.hoverBackground" : "#3c557cff",
 
     "Notification": {
+
 
       "errorForeground": "#f5f5f5",
       "errorBackground": "#c4131e",
@@ -151,6 +172,10 @@
       "hoverMaskColor": "#46628f",
       "inactiveMaskColor": "#24334aff"
     },
+    "DefaultTabs": {
+      "hoverBackground": "#24334aff"
+    },
+
 
     "Link": {
       "activeForeground": "#ede891",
@@ -229,8 +254,8 @@
       "buttonColor": "#3c5285"
     },
     "ToolTip": {
-      "background": "#445a83",
-      "Actions.background": "#252c3a"
+      "background": "#243145",
+      "Actions.background": "#3b4a66"
     },
     "ToolWindow": {
       "Header": {
@@ -252,6 +277,7 @@
         "selectedForeground": "#b1bfc6"
       }
     },
+
     "DragAndDrop": {
       "areaForeground": "#e5e5e5",
       "areaBackground": "#242b394a",
@@ -268,6 +294,9 @@
   "icons": {
     "ColorPalette": {
       "Checkbox.Background.Default.Dark": "#3c4861",
+      "Checkbox.Background.Default": "#3c4861",
+      "Checkbox.Background.Selected": "#3c4861",
+      "Checkbox.Background.Selected.Dark": "#3c4861",
       "Checkbox.Foreground.Selected.Dark": "#00d66e",
 
       "Checkbox.Background.Disabled": "#212735",
