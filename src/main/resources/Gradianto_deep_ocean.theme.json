@@ -5,6 +5,7 @@
   "editorScheme": "/Gradianto_deep_ocean.xml",
   "ui": {
     "*": {
+
       "background": "#1c2739",
       "foreground": "#c1c1c1",
 
@@ -14,10 +15,9 @@
       "selectionForeground": "#e2e2e2",
       "selectionInactiveBackground": "#2c3d59",
 
-
       "disabledForeground": "#a3a3a3",
       "disabledBackground": "#222f44",
-      "inactiveBackground": "#325180",
+      "inactiveBackground": "#222f44",
       "errorForeground": "#b5b5b5",
 
       "disabledText": "#adadad",
@@ -27,7 +27,7 @@
       "focusColor" : "#25334b",
       "focusedBorderColor": "#2b416a",
 
-      "separatorColor": "#1d304b"
+      "separatorColor": "#35435c"
     },
     "Tree.background": "#24334a",
     "VersionControl" :{
@@ -173,7 +173,7 @@
 
     "WelcomeScreen": {
       "Projects.selectionInactiveBackground": "#325180",
-      "separatorColor": "#223757"
+      "separatorColor": "#35435c"
     },
     "ValidationTooltip": {
       "errorBackground": "#802d43",
@@ -203,17 +203,17 @@
     "window": "#282c57",
     "PopupMenu.translucentBackground": "#26366d",
     "Popup": {
-      "inactiveBorderColor" : "#252649",
-      "paintBorder": true,
-      "Header.activeBackground": "#39487e",
-      "Header.inactiveBackground": "#325180",
-      "separatorColor" : "#223757",
-      "separatorForeground": "#426aa8",
       "Advertiser": {
-        "background": "#2f3347",
-        "borderColor": "#141834",
-        "borderInsets": "3,8,5,0"
-      }
+        "background": "#3b4a66",
+        "borderColor": "#141834"
+      },
+      "Header.activeBackground": "#39487e",
+      "background": "#243145",
+      "Header.inactiveBackground": "#325180",
+      "inactiveBorderColor": "#252649",
+      "paintBorder": true,
+      "separatorColor": "#35435c",
+      "separatorForeground": "#426aa8"
     },
     "ToggleButton": {
       "onForeground": "#274368",

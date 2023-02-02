@@ -44,6 +44,7 @@
     <option name="ScrollBar.thumbBorderColor" value="12182994" />
     <option name="ScrollBar.thumbColor" value="3c557c" />
     <option name="ScrollBar.trackColor" value="" />
+    <option name="TAB_UNDERLINE" value="3d7ec0" />
     <option name="TEARLINE_COLOR" value="415284" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="2e345f" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="2e425f" />
@@ -52,6 +53,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_5" value="2e585f" />
     <option name="VISUAL_INDENT_GUIDE" value="415385" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="3c676a" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="365879" />
   </colors>
   <attributes>
     <option name="BREADCRUMBS_CURRENT">
@@ -66,22 +68,10 @@
         <option name="BACKGROUND" value="3f5591" />
       </value>
     </option>
-    <option name="CONSOLE_BLACK_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="0" />
-      </value>
-    </option>
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
         <option name="FOREGROUND" value="448e84" />
         <option name="BACKGROUND" value="154f4f" />
-      </value>
-    </option>
-    <option name="CONSOLE_WHITE_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="CTRL_CLICKABLE">
