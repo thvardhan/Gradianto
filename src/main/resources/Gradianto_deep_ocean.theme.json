@@ -29,6 +29,12 @@
 
       "separatorColor": "#35435c"
     },
+    "RunWidget": {
+      "background": "#2c3c58",
+      "foreground": "#e2e2e2",
+      "runningBackground": "#3d5378",
+      "separatorColor": "#43516c"
+    },
     "Tree.background": "#24334a",
     "VersionControl" :{
       "Log.Commit.currentBranchBackground": "#263d61",
@@ -229,7 +235,8 @@
     "ToolWindow": {
       "Header": {
         "background": "#3766ae",
-        "inactiveBackground": "#325180"
+        "inactiveBackground": "#314465",
+        "borderColor": "#2e466a"
       },
 
       "HeaderTab": {
