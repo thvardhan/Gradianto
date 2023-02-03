@@ -30,6 +30,7 @@
     <themeProvider id="2b3a3367-4472-4b1b-8b0f-c89cbf584b65" path="/Gradianto_deep_ocean.theme.json"/>
     <themeProvider id="2b3a3367-4472-4b1b-8b0f-c89cbf584b66" path="/Gradianto_deep_ocean_new.theme.json"/>
     <themeProvider id="1a889165-3e3a-4b17-8191-668be6e1fdcf" path="/Gradianto_Nature_Green.theme.json"/>
+    <themeProvider id="1a889165-3e3a-4b17-8191-668be6e1fdca" path="/Gradianto_Nature_Green_new.theme.json"/>
 <!--    Hold on! the theme plugin below is WIP and hence its been commented out, STILL WIP ;) -->
 <!--    <themeProvider id="6c500df6-38ba-4c57-ac38-8788fb6778c7" path="/Gradianto_ultra_light.theme.json"/>-->
   </extensions>
