@@ -30,9 +30,22 @@
 
       "separatorColor": "#383850"
     },
+    "Tree": {
+      "hoverBackground": "#5841a7",
+      "hoverInactiveBackground": "#5841a7"
+
+    },
     "VersionControl" :{
-      "Log.Commit.currentBranchBackground": "#3e2e61",
-      "Log.Commit.unmatchedForeground": "#7f80a8"
+      "Log.Commit.currentBranchBackground": "#333345",
+      "Log.Commit.unmatchedForeground": "#7f80a8",
+
+      "GitLog.localBranchIconColor": "#65a05c",
+      "GitLog.tagIconColor": "#bcc4ce",
+      "Log.Commit.hoveredBackground": "#5841a7",
+      "Log.Commit.rowHeight": 30,
+      "Log.Commit.selectionBackground": "#4a3889",
+      "Log.Commit.selectionInactiveBackground": "#4a3889"
+
     },
     "Tree.background": "#2c2c3e",
 

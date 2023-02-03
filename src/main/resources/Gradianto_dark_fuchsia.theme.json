@@ -30,10 +30,22 @@
 
       "separatorColor": "#4b2665"
     },
+    "Tree": {
+      "hoverBackground": "#71468f",
+      "hoverInactiveBackground": "#71468f"
 
+    },
     "VersionControl" :{
-      "Log.Commit.currentBranchBackground": "#442661",
-      "Log.Commit.unmatchedForeground": "#8f7fa8"
+      "Log.Commit.currentBranchBackground": "#2e1e38",
+      "Log.Commit.unmatchedForeground": "#8f7fa8",
+      "GitLog.localBranchIconColor": "#65a05c",
+      "GitLog.tagIconColor": "#bcc4ce",
+      "Log.Commit.hoveredBackground": "#512663",
+      "Log.Commit.rowHeight": 30,
+      "Log.Commit.selectionBackground": "#402a4b",
+      "Log.Commit.selectionInactiveBackground": "#402a4b",
+      "RefLabel.backgroundBase": "#04d9ffff",
+      "RefLabel.backgroundBrightness": 0.99
     },
     "ActionButton": {
       "hoverBackground": "#512663",
@@ -296,7 +308,9 @@
       "Checkbox.Background.Default.Dark": "#442557",
       "Checkbox.Border.Default.Dark": "#532d68",
       "Checkbox.Foreground.Selected.Dark": "#6aae41",
-
+      "Checkbox.Background.Default": "#532e6a",
+      "Checkbox.Background.Disabled": "#321d3d",
+      "Checkbox.Background.Disabled.Dark": "#321d3d",
       "Objects.Grey": "#a098a0",
       "Objects.Blue": "#55a9c2",
       "Objects.RedStatus": "#a74d4dff",

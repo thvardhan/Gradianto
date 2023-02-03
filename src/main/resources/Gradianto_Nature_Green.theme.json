@@ -45,8 +45,10 @@
       "separatorColor": "#20574f"
     },
     "Tree": {
-      "background": "#203a40",
-      "selectionBackground": "#00695c"
+      "background": "#20403f",
+      "selectionBackground": "#00695c",
+      "hoverBackground": "#386d54f8",
+      "hoverInactiveBackground": "#386d54f8"
     },
     "ActionButton": {
       "hoverBackground": "#084934",
@@ -224,9 +226,19 @@
       "lightSelectionBackground": "#356f58",
       "hoverBackground": "#325e4d"
     },
+
     "VersionControl": {
-      "Log.Commit.currentBranchBackground": "#225740",
-      "Log.Commit.unmatchedForeground": "#94aba8"
+      "Log.Commit.currentBranchBackground": "#1e3938",
+      "Log.Commit.unmatchedForeground": "#94aba8",
+      "GitLog.localBranchIconColor": "#65a05c",
+      "GitLog.tagIconColor": "#bcc4ce",
+      "Log.Commit.hoveredBackground": "#34634dff",
+      "Log.Commit.rowHeight": 30,
+      "Log.Commit.selectionBackground": "#00695c",
+      "Log.Commit.selectionInactiveBackground": "#004b41",
+      "RefLabel.backgroundBase": "#04d9ffff",
+      "RefLabel.backgroundBrightness": 0.99
+
     },
     "ScrollBar" : {
       "hoverThumbBorderColor" : "#39666394",
