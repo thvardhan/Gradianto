@@ -9,13 +9,13 @@
       "background": "#1c2739",
       "foreground": "#c1c1c1",
 
-      "infoForeground": "#cdcdcdc1",
+      "infoForeground": "#84c2a6",
 
       "selectionBackground": "#39487e",
       "selectionForeground": "#e2e2e2",
       "selectionInactiveBackground": "#2c3d59",
 
-      "disabledForeground": "#a3a3a3",
+      "disabledForeground": "#868686",
       "disabledBackground": "#222f44",
       "inactiveBackground": "#222f44",
       "errorForeground": "#b5b5b5",
@@ -190,18 +190,18 @@
 
 
     "Link": {
-      "activeForeground": "#ede891",
-      "hoverForeground": "#ede891",
-      "pressedForeground": "#ede891",
-      "visitedForeground": "#ede891"
+      "activeForeground": "#e7e3ac",
+      "hoverForeground": "#e7e3ac",
+      "pressedForeground": "#e7e3ac",
+      "visitedForeground": "#e7e3ac"
     },
     "FileColor": {
-      "Yellow": "#b6a76f25",
-      "Green": "#7c9e6425",
-      "Blue": "#61afef25",
+      "Yellow": "#534b2e25",
+      "Green": "#45583725",
+      "Blue": "#26435c25",
       "Violet": "#542a4f25",
-      "Orange": "#ad694f25",
-      "Rose": "#932d4825"
+      "Orange": "#472a1f25",
+      "Rose": "#3d162025"
     },
     "SearchEverywhere": {
       "Tab": {
@@ -296,10 +296,10 @@
       "areaBorderColor": "#141834"
     },
     "Plugins": {
-      "SectionHeader.background": "#2a3563",
+      "SectionHeader.background": "#25334aff",
       "tagBackground": "#3d445a",
-      "hoverBackground": "#495787",
-      "lightSelectionBackground": "#3c4b7e"
+      "hoverBackground": "#24334aff",
+      "lightSelectionBackground": "#2d3e58ff"
     },
     "EditorPane.inactiveBackground": "#25334aff"
   },
