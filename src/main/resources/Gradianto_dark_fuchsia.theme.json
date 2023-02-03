@@ -35,6 +35,9 @@
       "hoverInactiveBackground": "#71468f"
 
     },
+    "NotificationsToolwindow.newNotification.background": "#4a2b5e",
+    "NotificationsToolwindow.newNotification.hoverBackground": "#6f3986",
+    "NotificationsToolwindow.Notification.hoverBackground": "#6f3986",
     "VersionControl" :{
       "Log.Commit.currentBranchBackground": "#2e1e38",
       "Log.Commit.unmatchedForeground": "#8f7fa8",
