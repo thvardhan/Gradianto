@@ -78,6 +78,8 @@
       "default.focusColor": "#4aa259",
       "disabledBorderColor": "#198157",
       "default": {
+        "startBorderColor":"#3a7858",
+        "endBorderColor": "#3a7858",
         "startBackground": "#3a7858",
         "endBackground": "#3a7858",
         "focusColor": "#29a2a2"
