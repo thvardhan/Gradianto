@@ -116,6 +116,10 @@
     "Editor": {
       "shortcutForeground": "#3f795b"
     },
+    "MemoryIndicator": {
+      "usedBackground": "#386d54f8",
+      "allocatedBackground": "#2f5e47e8"
+    },
     "NotificationsToolwindow.newNotification.background": "#2f5e47e8",
     "NotificationsToolwindow.newNotification.hoverBackground": "#386d54f8",
     "NotificationsToolwindow.Notification.hoverBackground": "#386d54f8",

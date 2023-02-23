@@ -29,6 +29,10 @@
 
       "separatorColor": "#35435c"
     },
+    "MemoryIndicator": {
+      "usedBackground": "#324565",
+      "allocatedBackground": "#25334b"
+    },
 
     "RunWidget": {
       "background": "#2c3c58",
@@ -57,7 +61,7 @@
       }
     },
     "VersionControl" :{
-      "Log.Commit.currentBranchBackground": "#1b2638",
+      "Log.Commit.currentBranchBackground": "#29364c",
       "Log.Commit.unmatchedForeground": "#9ea8c2",
       "Log.Commit.hoveredBackground": "#324565",
       "Log.Commit.rowHeight": 30,
@@ -66,7 +70,7 @@
       "GitLog.tagIconColor": "#bcc4ce",
       "GitLog.localBranchIconColor": "#65a05c",
       "RefLabel.backgroundBrightness": 0.99,
-      "RefLabel.backgroundBase": "#04d9ffff"
+      "RefLabel.backgroundBase": "#0a7af6"
     },
 
     "ActionButton": {

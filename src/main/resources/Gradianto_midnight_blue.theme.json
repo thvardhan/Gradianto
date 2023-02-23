@@ -35,6 +35,10 @@
       "hoverInactiveBackground": "#5841a7"
 
     },
+    "MemoryIndicator": {
+      "usedBackground": "#504480",
+      "allocatedBackground": "#493c6c"
+    },
     "NotificationsToolwindow.newNotification.background": "#504480",
     "NotificationsToolwindow.newNotification.hoverBackground": "#493c6c",
     "NotificationsToolwindow.Notification.hoverBackground": "#493c6c",

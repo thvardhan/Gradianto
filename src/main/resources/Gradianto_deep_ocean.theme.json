@@ -38,6 +38,10 @@
     "NotificationsToolwindow.newNotification.background" : "#314465",
     "NotificationsToolwindow.newNotification.hoverBackground" : "#3c557cff",
     "NotificationsToolwindow.Notification.hoverBackground" : "#3c557cff",
+    "MemoryIndicator": {
+      "usedBackground": "#324565",
+      "allocatedBackground": "#25334b"
+    },
 
     "VersionControl" :{
       "Log.Commit.currentBranchBackground": "#1b2638",

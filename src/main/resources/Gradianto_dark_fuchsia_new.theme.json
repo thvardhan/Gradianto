@@ -309,6 +309,10 @@
       "hoverColor": "#633479",
       "underlineColor": "#8f7fa8"
     },
+    "MemoryIndicator": {
+      "usedBackground": "#6f3986",
+      "allocatedBackground": "#4a2b5e"
+    },
     "NotificationsToolwindow.newNotification.background": "#4a2b5e",
     "NotificationsToolwindow.newNotification.hoverBackground": "#6f3986",
     "NotificationsToolwindow.Notification.hoverBackground": "#6f3986",
