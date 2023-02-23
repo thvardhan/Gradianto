@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'thvardhan'
-version '5.0'
+version '5.1'
 
 repositories {
     mavenCentral()
@@ -21,10 +21,9 @@ intellij {
 patchPluginXml {
     intellij.updateSinceUntilBuild = false
     changeNotes """
-      <h3>5.0</h3>
+      <h3>5.1</h3>
       <ul>
-        <li>Added EAP new UI designs - Please provide feedback on github</li>
-        <li>Fixed colors across tree and VCS module for all themes</li>
+        <li>Fixed memory indicator, tag, git highlights</li>
       </ul>
       """
 }
