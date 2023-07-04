@@ -20,7 +20,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="366e62" />
     <option name="SELECTED_INDENT_GUIDE" value="346e5b" />
     <option name="SELECTED_TEARLINE_COLOR" value="4d9c83" />
-    <option name="SELECTION_BACKGROUND" value="d4a42" />
+    <option name="SELECTION_BACKGROUND" value="25a4d" />
     <option name="SEPARATOR_BELOW_COLOR" value="373c3b" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="14262694" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="497486" />
@@ -29,23 +29,23 @@
     <option name="ScrollBar.Mac.Transparent.thumbColor" value="" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="14262694" />
-    <option name="ScrollBar.Mac.hoverThumbColor" value="498653ff" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="498653" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="" />
     <option name="ScrollBar.Mac.thumbBorderColor" value="39666394" />
-    <option name="ScrollBar.Mac.thumbColor" value="3b6d3fff" />
+    <option name="ScrollBar.Mac.thumbColor" value="3b6d3f" />
     <option name="ScrollBar.Mac.trackColor" value="" />
     <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="14262694" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="498653ff" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="498653" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="224039" />
     <option name="ScrollBar.Transparent.thumbBorderColor" value="39666394" />
-    <option name="ScrollBar.Transparent.thumbColor" value="3b6d3fff" />
+    <option name="ScrollBar.Transparent.thumbColor" value="3b6d3f" />
     <option name="ScrollBar.Transparent.trackColor" value="" />
     <option name="ScrollBar.background" value="16322c" />
     <option name="ScrollBar.hoverThumbBorderColor" value="14262694" />
-    <option name="ScrollBar.hoverThumbColor" value="498653ff" />
+    <option name="ScrollBar.hoverThumbColor" value="498653" />
     <option name="ScrollBar.hoverTrackColor" value="" />
     <option name="ScrollBar.thumbBorderColor" value="39666394" />
-    <option name="ScrollBar.thumbColor" value="3b6d3fff" />
+    <option name="ScrollBar.thumbColor" value="3b6d3f" />
     <option name="ScrollBar.trackColor" value="" />
     <option name="TEARLINE_COLOR" value="254d45" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="174726" />
@@ -54,6 +54,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_4" value="2d4717" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="374717" />
     <option name="VISUAL_INDENT_GUIDE" value="2e5e4a" />
+    <option name="WARNING_HINT" value="665015" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="4a676a" />
   </colors>
   <attributes>
@@ -81,22 +82,10 @@
         <option name="BACKGROUND" value="295c53" />
       </value>
     </option>
-    <option name="CONSOLE_BLACK_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="0" />
-      </value>
-    </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="3c7f6d" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="CONSOLE_WHITE_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="CTRL_CLICKABLE">
@@ -205,7 +194,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="518dc6" />
+        <option name="FOREGROUND" value="5f93c9" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -278,7 +267,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="a6aa43" />
+        <option name="FOREGROUND" value="acac58" />
       </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
@@ -357,7 +346,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
+    <option name="HAML_RUBY_CODE" baseAttributes="" />
     <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
     <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
@@ -506,7 +495,7 @@
     <option name="VELOCITY_SCRIPTING_BACKGROUND" baseAttributes="JSP_SCRIPTING_BACKGROUND" />
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="505224" />
+        <option name="BACKGROUND" value="3c3d1f" />
         <option name="ERROR_STRIPE_COLOR" value="be9117" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
