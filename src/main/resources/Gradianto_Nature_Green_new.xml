@@ -20,7 +20,6 @@
     <option name="RIGHT_MARGIN_COLOR" value="366e62" />
     <option name="SELECTED_INDENT_GUIDE" value="346e5b" />
     <option name="SELECTED_TEARLINE_COLOR" value="4d9c83" />
-    <option name="SELECTION_BACKGROUND" value="25a4d" />
     <option name="SEPARATOR_BELOW_COLOR" value="373c3b" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="14262694" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="497486" />
@@ -56,6 +55,7 @@
     <option name="VISUAL_INDENT_GUIDE" value="2e5e4a" />
     <option name="WARNING_HINT" value="665015" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="4a676a" />
+    <option name="SELECTION_BACKGROUND" value="6858" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
