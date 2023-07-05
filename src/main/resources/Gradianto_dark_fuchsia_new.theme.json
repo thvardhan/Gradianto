@@ -334,6 +334,15 @@
       "selectedButtonColor": "#643578",
       "focusedSelectedButtonColor": "#643578"
     },
+    "MainWindow.Tab" : {
+      "selectedForeground": "#eceff1",
+      "selectedBackground": "#3e1c4c",
+      "selectedInactiveBackground": "#5d4966",
+      "foreground": "#eceff1",
+      "background": "#3e1c4c",
+      "hoverBackground": "#6f3986",
+      "borderColor": "#311f39"
+    },
     "EditorPane.inactiveBackground": "#5d4966"
   },
   "icons": {
