@@ -311,6 +311,13 @@
         "thumbColor": "#3b6d3fff"
       }
     },
+    "SegmentedButton": {
+      "selectedStartBorderColor": "#254b45",
+      "selectedEndBorderColor": "#254b45",
+      "selectedButtonColor": "#025248",
+      "focusedSelectedButtonColor": "#025248"
+    },
+
     "EditorPane.inactiveBackground": "#254a39ff"
   }
 }
