@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'thvardhan'
-version '5.2'
+version '5.3'
 
 repositories {
     mavenCentral()
@@ -21,6 +21,10 @@ intellij {
 patchPluginXml {
     intellij.updateSinceUntilBuild = false
     changeNotes """
+        <h3>5.3</h3>
+      <ul>
+        <li>Fixed tab colors in mac os</li>
+      </ul>
       <h3>5.2</h3>
       <ul>
         <li>Changed highlight color for nature green</li>
