@@ -328,6 +328,12 @@
       },
       "inactiveBackground": "#422653"
     },
+    "SegmentedButton": {
+      "selectedStartBorderColor": "#2f1f39",
+      "selectedEndBorderColor": "#2f1f39",
+      "selectedButtonColor": "#643578",
+      "focusedSelectedButtonColor": "#643578"
+    },
     "EditorPane.inactiveBackground": "#5d4966"
   },
   "icons": {

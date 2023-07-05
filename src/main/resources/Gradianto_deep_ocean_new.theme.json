@@ -305,6 +305,13 @@
       "hoverBackground": "#24334aff",
       "lightSelectionBackground": "#2d3e58ff"
     },
+    "SegmentedButton": {
+      "selectedStartBorderColor": "#252e4b",
+      "selectedEndBorderColor": "#252e4b",
+      "selectedButtonColor": "#4a75a2",
+      "focusedSelectedButtonColor": "#4a75a2"
+    },
+
     "EditorPane.inactiveBackground": "#25334aff"
   },
   "icons": {
