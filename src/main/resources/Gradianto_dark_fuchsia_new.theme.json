@@ -336,7 +336,7 @@
     },
     "MainWindow.Tab" : {
       "selectedForeground": "#eceff1",
-      "selectedBackground": "#3e1c4c",
+      "selectedBackground": "#8a599e",
       "selectedInactiveBackground": "#5d4966",
       "foreground": "#eceff1",
       "background": "#3e1c4c",

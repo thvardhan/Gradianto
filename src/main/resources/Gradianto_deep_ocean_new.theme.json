@@ -314,7 +314,7 @@
 
     "MainWindow.Tab" : {
       "selectedForeground": "#ececec",
-      "selectedBackground": "#243647",
+      "selectedBackground": "#324d65",
       "selectedInactiveBackground": "#25334aff",
       "foreground": "#e2e2e2",
       "background": "#243647",

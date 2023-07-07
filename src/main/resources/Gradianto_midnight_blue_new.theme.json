@@ -148,7 +148,7 @@
       "underlineColor": "#6b53a5",
       "hoverBackground": "#493c6c",
 
-      "background": "#3d3d56"
+      "background": "#38384b"
 
     },
     "Link": {
@@ -324,7 +324,7 @@
     "selectedBackground": "#3d3d56",
     "selectedInactiveBackground": "#363647ff",
     "foreground": "#e2e2e2",
-    "background": "#3d3d56",
+    "background": "#38384b",
     "hoverBackground": "#493c6c",
     "borderColor": "#221b3c"
   },
