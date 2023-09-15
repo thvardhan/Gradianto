@@ -135,12 +135,11 @@
       "hoverMaskColor": "#71468f",
       "inactiveMaskColor": "#34244aff"
     },
-
     "Link": {
-      "activeForeground": "#c9a7d2ff",
-      "hoverForeground": "#c9a7d2ff",
-      "pressedForeground": "#c9a7d2ff",
-      "visitedForeground": "#c9a7d2ff"
+      "activeForeground": "#c9a7d2",
+      "hoverForeground": "#c9a7d2",
+      "pressedForeground": "#c9a7d2",
+      "visitedForeground": "#c9a7d2"
     },
 
     "FileColor": {
@@ -154,6 +153,7 @@
 
     "Tree.background": "#342040",
     "Tree": {
+      "selectionInactiveBackground": "#57376d",
       "hash": "#4f355f",
       "hoverBackground": "#71468f",
       "hoverInactiveBackground": "#71468f",
