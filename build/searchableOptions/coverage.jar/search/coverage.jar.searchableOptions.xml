@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="coverage" configurable_name="Coverage">
+    <option name="classes" hit="Ignore empty private constructors of utility classes" />
+    <option name="constructors" hit="Ignore empty private constructors of utility classes" />
+    <option name="empty" hit="Ignore empty private constructors of utility classes" />
+    <option name="ignore" hit="Ignore empty private constructors of utility classes" />
+    <option name="of" hit="Ignore empty private constructors of utility classes" />
+    <option name="private" hit="Ignore empty private constructors of utility classes" />
+    <option name="utility" hit="Ignore empty private constructors of utility classes" />
+    <option name="constructors" hit="Ignore implicitly declared default constructors" />
+    <option name="declared" hit="Ignore implicitly declared default constructors" />
+    <option name="default" hit="Ignore implicitly declared default constructors" />
+    <option name="ignore" hit="Ignore implicitly declared default constructors" />
+    <option name="implicitly" hit="Ignore implicitly declared default constructors" />
+    <option name="coverage" hit="Java coverage" />
+    <option name="java" hit="Java coverage" />
+  </configurable>
+</options>
+

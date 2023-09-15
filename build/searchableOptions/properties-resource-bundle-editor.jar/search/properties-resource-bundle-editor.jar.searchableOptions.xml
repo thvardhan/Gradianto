@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="add" path="ActionManager" hit="Add Property to Resource Bundle" />
+    <option name="bundle" path="ActionManager" hit="Add Property to Resource Bundle" />
+    <option name="property" path="ActionManager" hit="Add Property to Resource Bundle" />
+    <option name="resource" path="ActionManager" hit="Add Property to Resource Bundle" />
+    <option name="to" path="ActionManager" hit="Add Property to Resource Bundle" />
+    <option name="choose" path="ActionManager" hit="Choose Next Property Value Editor" />
+    <option name="editor" path="ActionManager" hit="Choose Next Property Value Editor" />
+    <option name="next" path="ActionManager" hit="Choose Next Property Value Editor" />
+    <option name="property" path="ActionManager" hit="Choose Next Property Value Editor" />
+    <option name="value" path="ActionManager" hit="Choose Next Property Value Editor" />
+    <option name="choose" path="ActionManager" hit="Choose Previous Property Value Editor" />
+    <option name="editor" path="ActionManager" hit="Choose Previous Property Value Editor" />
+    <option name="previous" path="ActionManager" hit="Choose Previous Property Value Editor" />
+    <option name="property" path="ActionManager" hit="Choose Previous Property Value Editor" />
+    <option name="value" path="ActionManager" hit="Choose Previous Property Value Editor" />
+    <option name="go" path="ActionManager" hit="Go to next incomplete property" />
+    <option name="incomplete" path="ActionManager" hit="Go to next incomplete property" />
+    <option name="next" path="ActionManager" hit="Go to next incomplete property" />
+    <option name="property" path="ActionManager" hit="Go to next incomplete property" />
+    <option name="to" path="ActionManager" hit="Go to next incomplete property" />
+    <option name="new" path="ActionManager" hit="New Property" />
+    <option name="property" path="ActionManager" hit="New Property" />
+    <option name="bundle" path="ActionManager" hit="Show Quick Fixes in Resource Bundle Editor" />
+    <option name="editor" path="ActionManager" hit="Show Quick Fixes in Resource Bundle Editor" />
+    <option name="fixes" path="ActionManager" hit="Show Quick Fixes in Resource Bundle Editor" />
+    <option name="in" path="ActionManager" hit="Show Quick Fixes in Resource Bundle Editor" />
+    <option name="quick" path="ActionManager" hit="Show Quick Fixes in Resource Bundle Editor" />
+    <option name="resource" path="ActionManager" hit="Show Quick Fixes in Resource Bundle Editor" />
+    <option name="show" path="ActionManager" hit="Show Quick Fixes in Resource Bundle Editor" />
+  </configurable>
+</options>
+

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="check" path="ActionManager" hit="Check for new timeline events" />
+    <option name="events" path="ActionManager" hit="Check for new timeline events" />
+    <option name="for" path="ActionManager" hit="Check for new timeline events" />
+    <option name="new" path="ActionManager" hit="Check for new timeline events" />
+    <option name="timeline" path="ActionManager" hit="Check for new timeline events" />
+    <option name="branch" path="ActionManager" hit="Checkout synthetic pull request branch" />
+    <option name="checkout" path="ActionManager" hit="Checkout synthetic pull request branch" />
+    <option name="pull" path="ActionManager" hit="Checkout synthetic pull request branch" />
+    <option name="request" path="ActionManager" hit="Checkout synthetic pull request branch" />
+    <option name="synthetic" path="ActionManager" hit="Checkout synthetic pull request branch" />
+    <option name="commit" path="ActionManager" hit="Commit" />
+    <option name="create" path="ActionManager" hit="Create Gist..." />
+    <option name="gist" path="ActionManager" hit="Create Gist..." />
+    <option name="create" path="ActionManager" hit="Create GitHub Gist" />
+    <option name="gist" path="ActionManager" hit="Create GitHub Gist" />
+    <option name="github" path="ActionManager" hit="Create GitHub Gist" />
+    <option name="branch" path="ActionManager" hit="Create New Local Branch..." />
+    <option name="create" path="ActionManager" hit="Create New Local Branch..." />
+    <option name="local" path="ActionManager" hit="Create New Local Branch..." />
+    <option name="new" path="ActionManager" hit="Create New Local Branch..." />
+    <option name="create" path="ActionManager" hit="Create Pull Request" />
+    <option name="pull" path="ActionManager" hit="Create Pull Request" />
+    <option name="request" path="ActionManager" hit="Create Pull Request" />
+    <option name="branch" path="ActionManager" hit="Create pull request from current branch" />
+    <option name="create" path="ActionManager" hit="Create pull request from current branch" />
+    <option name="current" path="ActionManager" hit="Create pull request from current branch" />
+    <option name="from" path="ActionManager" hit="Create pull request from current branch" />
+    <option name="pull" path="ActionManager" hit="Create pull request from current branch" />
+    <option name="request" path="ActionManager" hit="Create pull request from current branch" />
+    <option name="easily" path="ActionManager" hit="Easily share project on GitHub" />
+    <option name="github" path="ActionManager" hit="Easily share project on GitHub" />
+    <option name="on" path="ActionManager" hit="Easily share project on GitHub" />
+    <option name="project" path="ActionManager" hit="Easily share project on GitHub" />
+    <option name="share" path="ActionManager" hit="Easily share project on GitHub" />
+    <option name="browser" path="ActionManager" hit="Open corresponding link in browser" />
+    <option name="corresponding" path="ActionManager" hit="Open corresponding link in browser" />
+    <option name="in" path="ActionManager" hit="Open corresponding link in browser" />
+    <option name="link" path="ActionManager" hit="Open corresponding link in browser" />
+    <option name="open" path="ActionManager" hit="Open corresponding link in browser" />
+    <option name="github" path="ActionManager" hit="Open on GitHub" />
+    <option name="on" path="ActionManager" hit="Open on GitHub" />
+    <option name="open" path="ActionManager" hit="Open on GitHub" />
+    <option name="editor" path="ActionManager" hit="Open pull request timeline in editor tab" />
+    <option name="in" path="ActionManager" hit="Open pull request timeline in editor tab" />
+    <option name="open" path="ActionManager" hit="Open pull request timeline in editor tab" />
+    <option name="pull" path="ActionManager" hit="Open pull request timeline in editor tab" />
+    <option name="request" path="ActionManager" hit="Open pull request timeline in editor tab" />
+    <option name="tab" path="ActionManager" hit="Open pull request timeline in editor tab" />
+    <option name="timeline" path="ActionManager" hit="Open pull request timeline in editor tab" />
+    <option name="fork" path="ActionManager" hit="Rebase my GitHub fork" />
+    <option name="github" path="ActionManager" hit="Rebase my GitHub fork" />
+    <option name="my" path="ActionManager" hit="Rebase my GitHub fork" />
+    <option name="rebase" path="ActionManager" hit="Rebase my GitHub fork" />
+    <option name="forked" path="ActionManager" hit="Rebase your GitHub forked repository relative to the origin" />
+    <option name="github" path="ActionManager" hit="Rebase your GitHub forked repository relative to the origin" />
+    <option name="origin" path="ActionManager" hit="Rebase your GitHub forked repository relative to the origin" />
+    <option name="rebase" path="ActionManager" hit="Rebase your GitHub forked repository relative to the origin" />
+    <option name="relative" path="ActionManager" hit="Rebase your GitHub forked repository relative to the origin" />
+    <option name="repository" path="ActionManager" hit="Rebase your GitHub forked repository relative to the origin" />
+    <option name="the" path="ActionManager" hit="Rebase your GitHub forked repository relative to the origin" />
+    <option name="to" path="ActionManager" hit="Rebase your GitHub forked repository relative to the origin" />
+    <option name="your" path="ActionManager" hit="Rebase your GitHub forked repository relative to the origin" />
+    <option name="list" path="ActionManager" hit="Refresh List" />
+    <option name="refresh" path="ActionManager" hit="Refresh List" />
+    <option name="comments" path="ActionManager" hit="Refresh Pull Request Comments" />
+    <option name="pull" path="ActionManager" hit="Refresh Pull Request Comments" />
+    <option name="refresh" path="ActionManager" hit="Refresh Pull Request Comments" />
+    <option name="request" path="ActionManager" hit="Refresh Pull Request Comments" />
+    <option name="details" path="ActionManager" hit="Refresh Pull Request Details" />
+    <option name="pull" path="ActionManager" hit="Refresh Pull Request Details" />
+    <option name="refresh" path="ActionManager" hit="Refresh Pull Request Details" />
+    <option name="request" path="ActionManager" hit="Refresh Pull Request Details" />
+    <option name="refresh" path="ActionManager" hit="Refresh Timeline" />
+    <option name="timeline" path="ActionManager" hit="Refresh Timeline" />
+    <option name="github" path="ActionManager" hit="Share Project on GitHub" />
+    <option name="on" path="ActionManager" hit="Share Project on GitHub" />
+    <option name="project" path="ActionManager" hit="Share Project on GitHub" />
+    <option name="share" path="ActionManager" hit="Share Project on GitHub" />
+    <option name="pull" path="ActionManager" hit="View Pull Requests" />
+    <option name="requests" path="ActionManager" hit="View Pull Requests" />
+    <option name="view" path="ActionManager" hit="View Pull Requests" />
+    <option name="timeline" path="ActionManager" hit="View Timeline" />
+    <option name="view" path="ActionManager" hit="View Timeline" />
+  </configurable>
+  <configurable id="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" configurable_name="GitHub">
+    <option name="clone" hit="Clone git repositories using ssh" />
+    <option name="git" hit="Clone git repositories using ssh" />
+    <option name="repositories" hit="Clone git repositories using ssh" />
+    <option name="ssh" hit="Clone git repositories using ssh" />
+    <option name="using" hit="Clone git repositories using ssh" />
+    <option name="connection" hit="Connection timeout:" />
+    <option name="timeout" hit="Connection timeout:" />
+    <option name="github" hit="GitHub" />
+    <option name="seconds" hit="seconds" />
+  </configurable>
+</options>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="enable" path="ActionManager" hit="Enable Swing Profiler" />
+    <option name="profiler" path="ActionManager" hit="Enable Swing Profiler" />
+    <option name="swing" path="ActionManager" hit="Enable Swing Profiler" />
+  </configurable>
+</options>
+

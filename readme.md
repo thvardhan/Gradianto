@@ -5,12 +5,6 @@ Gradianto aims to be easy on the eyes while being colorful and bright. Gradianto
 ## Winner of Intellij theme contest 2019
 With the amazing beauty and elegance of the theme, Gradianto won the Intellij theme contest 2019! Thank you for your support!
 
-
-## Sponsor
-<p><a title="Try CodeStream" href="https://sponsorlink.codestream.com/?utm_source=jbmarket&amp;utm_campaign=gradianto&amp;utm_medium=banner"><img src="https://alt-images.codestream.com/codestream_logo_gradianto.png"></a><br>
-Eliminate context switching and costly distractions. Create and merge PRs and perform code reviews from inside your IDE while using jump-to-definition, your keybindings, and other IDE favorites.<br> <a title="Learn more" href="https://sponsorlink.codestream.com/?utm_source=jbmarket&amp;utm_campaign=gradianto&amp;utm_medium=banner">Learn more</a></p>
-
-
 ## Screenshots
 <img src="Screenshots/DeepOcean-1.png" alt="Deep Ocean 1 image"/>
 <img src="Screenshots/DeepOcean-2.png" alt="Deep Ocean 2 image"/>
